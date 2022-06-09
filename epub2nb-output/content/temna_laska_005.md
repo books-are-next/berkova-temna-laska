@@ -3,8 +3,6 @@ title: "V\_boudě"
 contentType: prose
 ---
 
-  
-
 Co všechno jsou lidi schopni snášet, ochromeni strachem ze samoty…
 
 Tedy, jak jsme se seznámili: ano. – šla jsem, totiž, řekli mi – ne: myslela jsem – prostě bylo to někde napsáno – nevím – to je fuk – že tam­tudy, to že je moje cesta – že tudy a pak dál, to že je ten směr – že tamtudy a pak dál, potom, ne teď: teď je to jenom jako, nic vážnýho, jen příprava, pracovat na sobě a tak – ale štěstí je to, co teprv přijde, když si to zasloužím a budu se snažit, teprv to, co potom přijde, to že je ten život, to štěstí, jak ho známe a jak ho chcem –
@@ -231,9 +229,7 @@ Milá dcero Karolíno,
 
 přeji Ti k Tvým narozeninám, abys byla zdárnou dcerou, abys již pochopila, že darů života lze užívati, leč měrou nejskromnější, a stala se k naší radosti a v souladu s naším netrpělivým očekáváním užitečnou svému okolí a činila bližním jen dobré. To Ti přeje Tvůj milující otec
 
-prof. MUDr. Vaněk Alois, DrSc.
-
-  
+> prof. MUDr. Vaněk Alois, DrSc.
 
 Tenkrát – ano, snažila jsem se, snažila jsem se pomáhat té, co byla tak neodvolatelně sama, vypastovala jsem podlahu máslem, já nevěděla, že je to máslo, já neuměla číst, neuměla jsem ani chodit, nebyl mi ještě rok, lezla jsem po podlaze a pastovala podlahu tím máslem, co bylo na lístky, abych jí pomohla, té, co byla neodvolatelně sama, snažila jsem se mu to vysvětlit, když mě pak bil, ale nerozuměl mi, neuměla jsem ještě mluvit a on byl cele soustředěn na svůj výkon, aby mě konečně umlčel, aby mě zlomil, a tak mě neposlouchal a věcně a metodicky mě řezal dál –
 
@@ -529,16 +525,16 @@ A on řekl: krávo – a odešel.
 
 Musím se snažit, musím zapomenout na svoje sobecké zájmy a věnovat se jeho sobeckým zájmům, blablabla, tak to má být, tak se to ode mne čeká, blablabla, musím mu udělat prostředí, když se vrací a zvrací, když se třese, ubohý a sám, když si líže rány a kope mě, aby uvěřil ve svou sílu, když se mi chechtá, aby uvěřil ve svou velikost, aby posílen zas odcházel znovu se pokusit řídit svět – jednou se mu to povede, určitě, co by jinak dělal? přece to sakra k něčemu bylo? přece to nebylo jen tak? přece to všechno má nějaký smysl, vyšší, skrytý smysl – který zatím neznám – anebo ne? – ach Bože!
 
-Tady jsem.
+_Tady jsem._
 
 Že jsem mu pomohla? Že bylo mým posláním podepřít tuhle ubohou bytost a pomoci jí? Že to všechno nebylo zbytečné? Že mě má rád a jednou to pochopí, změní se a pln vděku mi všechno vynahradí a máme před sebou krásné a šťastné harmonické stáří jako z tý reklamy na kafe…?
 
-Kašle na to. Vůbec neví, o co ti jde. Až ti to dojde, umřeš. Až umřeš, najde si jinou. Své vdovectví bude nosit viditelně jako kytku za kloboukem, jako třpytku soucitu na nové oběti.
+_Kašle na to. Vůbec neví, o co ti jde. Až ti to dojde, umřeš. Až umřeš, najde si jinou. Své vdovectví bude nosit viditelně jako kytku za kloboukem, jako třpytku soucitu na nové oběti._
 
 Ne!
 
-Chceš se vsadit?
+_Chceš se vsadit?_
 
 Bože…
 
-Pořád jsem tady: čím začneme?
+_Pořád jsem tady: čím začneme?_
