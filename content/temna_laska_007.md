@@ -3,7 +3,7 @@ title: Konec
 contentType: prose
 ---
 
-… tak vidíš, že to nebolelo.
+_… tak vidíš, že to nebolelo._
 
 Ano! To je úžasné, skvělé! Dokázala jsem to! Ó díky, učiteli! Teď jsem volná, bez pout, můžu dělat, co chci… můžu třeba… někam jet? Ano! Do jiné země, kde je všechno úplně jiné, a tam někoho potkám, bude bohatý, bude mít bílý dům s bazénem a posilovnou a velkou zahradu s výhledem na moře a bude mě milovat a budu s ním šťastná…?
 
@@ -13,7 +13,7 @@ Dobře: tak nepojedu nikam moc daleko, jen do sídelního města, tam budu praco
 
 Ne, už to mám: ano! Budu chodit plavat a cvičit a nechám si vyhladit vrásky a vybělit zuby, abych byla krásná, a potkám někoho, kdo mě bude potřebovat, a já mu budu pomáhat a on mě bude milovat a vlezu za ním do boudy a… tak zastav mě přece!
 
-Zmlkni, ó pošetilá, copak nevíš, že ke kratochvílím nejvyššího patří, že nám naše nejapná přání doslova splní? Čímž nás činí dokonale nešťastnými?
+_Zmlkni, ó pošetilá, copak nevíš, že ke kratochvílím nejvyššího patří, že nám naše nejapná přání doslova splní? Čímž nás činí dokonale nešťastnými?_
 
 Když je žák připraven, učitel se najde…
 
@@ -49,15 +49,15 @@ Připravte si sešity a tužky, milé děti, dnes si ukážeme, jak se dělají
 
 Nemá cenu na sobě pracovat, nějak se vylepšovat, něco se učit, když je mládí pryč, larva pryč a nikde žádná budoucnost… Anděl je mimo, bestie taky, pouta jsou pryč – a co? Co dál? Jakej _já_ mám smysl? Já sama? Život nějak proběh, strávila jsem ho nejspíš blbě, jsem unavená, stará a zbytečná, nikdo mě nepotřebuje…
 
-Tak čau.
+_Tak čau._
 
 Počkej, kam jdeš! To mě tu necháš jen tak? Rozmluv mi to přece! Řekni mi, že nemám pravdu, že to má cenu, abych se vzchopila, řekni mi, že na mně ještě záleží!
 
-Proč?
+_Proč?_
 
 Copak na mně opravdu nezáleží?
 
-A proč to mám říkat já?
+_A proč to mám říkat já?_
 
 Protože – sakra… tak jo: ano, mám svoji cenu! Udělám něco pro sebe, abych se zvedla, kurva, zasloužim si to!
 
@@ -71,69 +71,69 @@ Larva zmizela a on je taky někde pryč. Ze zrcadla na mě zírá kdosi někdej
 
 Ó učiteli! Já jsem tak šťastna, že vás vidím! Tolik, tolik jsem na vás myslela! Já se tak ráda vzdělávám! A tak ráda pomáhám lidem!
 
-Opravdu?
+_Opravdu?_
 
 Ó ano! Je to tak úžasné, předávat zkušenosti, vědomosti, moudrost a vše, k čemu jsme za léta dospěli…!
 
-Opravdu chceš předat své vědomosti?
+_Opravdu chceš předat své vědomosti?_
 
 Ó ano, zahlaholila slečna překotně, ta stará pitomá už zase slečna já, a kouzelník se pobaveně usmál.
 
 (Jednou jsem dala svou panenku holčičce, která tolik plakala, bylo to ode mne hezké, to se přece má, projevit účast a potěšit – tak proč, když jsem byla tak hodná, proč už tu panenku nemám…?)
 
-Chceš opravdu předat všechno své a shořet na popel?
+_Chceš opravdu předat všechno své a shořet na popel?_
 
 Ó ano! Mám školení pro linku důvěry a pro první pomoc v psychické nouzi a teď dělám školu Terapeutem snadno a rychle podle knihy Domácí lékař a taky psychoanalytický dálkový korespondenční kurz! Jásá ta pitomá slečna já, udělej mě svou následovnicí, staň se mým učitelem!
 
-Ale já nechci být ničím učitelem, baví mě žít…
+_Ale já nechci být ničím učitelem, baví mě žít…_
 
 Vy nechcete předat své vědomosti…?
 
-A proč? Co bych jim předával? Ať si to objevjej sami! Když někomu něco dáš, tak už to nemáš: patří to jinému, ten k tomu přišel zadarmo, je svěží a drzý, začíná tam, kde ty končíš; nejspíš ani nechápe, co to vůbec ukradl, a tak to podělá – a ty jsi stejně v loji.
+_A proč? Co bych jim předával? Ať si to objevjej sami! Když někomu něco dáš, tak už to nemáš: patří to jinému, ten k tomu přišel zadarmo, je svěží a drzý, začíná tam, kde ty končíš; nejspíš ani nechápe, co to vůbec ukradl, a tak to podělá – a ty jsi stejně v loji._
 
 Ale to se přece má, pracovat na sobě a tak…
 
-Budeš teda lepší – a co?
+_Budeš teda lepší – a co?_
 
 No – budu lepší – a svět se zlepší se mnou…
 
-Fakt? Zlepšujou se lidi? A s nima svět? Zařiď si odvšivovací firmu, snaž se jako hodnej mraveneček – jezdi na dovolenou s dětma k moři – anebo se válej na hlavním nádraží – je to fuk
+_Fakt? Zlepšujou se lidi? A s nima svět? Zařiď si odvšivovací firmu, snaž se jako hodnej mraveneček – jezdi na dovolenou s dětma k moři – anebo se válej na hlavním nádraží – je to fuk_
 
 Jak to můžete jen tak říct, že je to fuk? To přece není fuk!
 
-Ale jo – svět se rozpadá – rozletí se na kousíčky co nevidět…
+_Ale jo – svět se rozpadá – rozletí se na kousíčky co nevidět…_
 
 (Starý šaman předává své vědomosti studentům – leží na kamenné podlaze chrámu a opouští všechno své: mladí klečí kolem a vstřebávají jeho životní proud; pak vstávají a odcházejí nějak s tím naložit. Starý učitel zůstává mrtev ležet na zemi, služba ho ráno zamete.)
 
-Nerozdávej, nemáš z čeho.
+_Nerozdávej, nemáš z čeho._
 
 Ale musíme přece konat dobro!
 
-Konání dobra je omyl. Snažení nemá smysl. Vývoj je blbost – jestli má něco cenu, tak válet se v trávě, množit se a žrát – případně chlastat něco omamnýho z tykve;
+_Konání dobra je omyl. Snažení nemá smysl. Vývoj je blbost – jestli má něco cenu, tak válet se v trávě, množit se a žrát – případně chlastat něco omamnýho z tykve;_
 
 Ale přece…
 
-Nasypat bobule – naplít na to, zašpuntovat a nechat kvasit na slunci – a pak se tim zpráskat, to má smysl, jo, to má.
+_Nasypat bobule – naplít na to, zašpuntovat a nechat kvasit na slunci – a pak se tim zpráskat, to má smysl, jo, to má._
 
 Ale já chci na něco přijít!
 
-Na co?
+_Na co?_
 
 Jak to je – smysl života, vesmír a tak…
 
-Proč?
+_Proč?_
 
 Abych to věděla!
 
-A proč? hodláš řídit vesmír? spolknout Boha?
+_A proč? hodláš řídit vesmír? spolknout Boha?_
 
 Ne, ale to je přece jediný smysl života, ne? Sebezdokonalování a tak…
 
-Myslíš?
+_Myslíš?_
 
 Samozřejmě!
 
-No když myslíš…
+_No když myslíš…_
 
 Tady to vidíte, paní doktorko: je toho tolik, co mám ještě pochopit… a tak dělám modely: světy, na které stačím… Třeba se jednou něco otevře… někdo to kreslí, někdo to tancuje, maluje, zpívá – zkouším to sepsat. Ale velmi, strašně a bolestně mi chybí společný tanec kolem ohně! Je strašná samota uprostřed velkého NE-já!
 
@@ -151,67 +151,67 @@ Mnoho věcí čeká na mé pochopení; a mnohé se mi cpe do života, aniž hla
 
 Co dělá ten můj?
 
-Sedí v boudě, okusuje si nehty a soustředěně pozoruje tu ženu z bufetu, která se zřejmě topí v kádi.
+_Sedí v boudě, okusuje si nehty a soustředěně pozoruje tu ženu z bufetu, která se zřejmě topí v kádi._
 
 Podařilo se jí chytit se okraje. Stejně bych pro tebe skočil, řekl jí a podal jí nějaký klacek. Někdo tě vytáhne, řekl, já se tímhle nehodlám zabývat… hele, mě tohle nebaví… hele, tohle mě nezajímá… na tohle já nejsem zvědavej… co chceš, abych ti na to řek…? A tančí kolem ní svůj tanec pohrdání a žena v kádi se strašně snaží…
 
-– už rozumíš? – no konečně; tak jedem: nadechnout – pomalu vyfukovat, jinak se unavíš; padesát bazénů, poslední zrychlit, a jedem!
+_– už rozumíš? – no konečně; tak jedem: nadechnout – pomalu vyfukovat, jinak se unavíš; padesát bazénů, poslední zrychlit, a jedem!_
 
-Musíš opustit všechny ty věci, co s sebou vláčíš, máš sbaleno? Nech to tu; přišlas o kufr? Zahoď i tašku! Nic neshromažďuj, ničeho se nedrž, všechno pryč, vzpomínky? Rozluč se! Fotografie, dopisy, deníky – políbit a do ohně: sbohem!
+_Musíš opustit všechny ty věci, co s sebou vláčíš, máš sbaleno? Nech to tu; přišlas o kufr? Zahoď i tašku! Nic neshromažďuj, ničeho se nedrž, všechno pryč, vzpomínky? Rozluč se! Fotografie, dopisy, deníky – políbit a do ohně: sbohem!_
 
-Vydáš se dolů, půjdeš tam sama, bez berlí, bez identity, bez paměti; pořád dolů, jako když teče voda – až k tomu ložisku v temnotách, o kterém víš, a děláš, že nevíš; které chceš nějak překročit, přemostit, zakrýt a nevidět: musíš dolů k těm kalům; ruce máš volné – musíš přeplavat to moře…
+_Vydáš se dolů, půjdeš tam sama, bez berlí, bez identity, bez paměti; pořád dolů, jako když teče voda – až k tomu ložisku v temnotách, o kterém víš, a děláš, že nevíš; které chceš nějak překročit, přemostit, zakrýt a nevidět: musíš dolů k těm kalům; ruce máš volné – musíš přeplavat to moře…_
 
 Ale – co larva –?
 
-Je v pořádku. Zvládla to a jde svojí cestou…
+_Je v pořádku. Zvládla to a jde svojí cestou…_
 
 Ale co on? Je tak nemožný – to ho mám nechat jen tak? – vždyť může jít se mnou…
 
-Dávno má přece jinou, kašli na to, neohlížej se – ještě ho potkáš; co je to za divného člověka, řekneš si, je tak přikrčený a malý a provinile se usmívá; jak to, že jsem chtěla, aby byl obr? –
+_Dávno má přece jinou, kašli na to, neohlížej se – ještě ho potkáš; co je to za divného člověka, řekneš si, je tak přikrčený a malý a provinile se usmívá; jak to, že jsem chtěla, aby byl obr? –_
 
 On chtěl být umělec…
 
-Ano: miloval tě jako přírodninu – jako beztvarou hylé, které teprve ON má dát smysl a tvar. Nech to a plav; on se netopí, topíš se ty! Tak zrychluj, zaber, nezastavuj se, jeď dál…!
+_Ano: miloval tě jako přírodninu – jako beztvarou hylé, které teprve ON má dát smysl a tvar. Nech to a plav; on se netopí, topíš se ty! Tak zrychluj, zaber, nezastavuj se, jeď dál…!_
 
-– máš nekonečně víc energie, než tušíš, máš nekonečně víc sil, víc nápadů, víc možností, než tušíš; ochablost? Přidej! Lenost? Lenost je smrt – nahoď motory!
+_– máš nekonečně víc energie, než tušíš, máš nekonečně víc sil, víc nápadů, víc možností, než tušíš; ochablost? Přidej! Lenost? Lenost je smrt – nahoď motory!_
 
 Kdy budu u cíle?
 
-To poznáš! Sbohem!
+_To poznáš! Sbohem!_
 
 Nebudu zdržovat, paní doktorko, bylo to podle zásady, když nemůžeš, tak přidej; když umíráš, tak přidej víc.
 
 Přeplavala jsem to moře. Když jsem vylezla na břeh, bylo krásné podzimní odpoledne. Lehla jsem si do trávy, třásla se chladem a s rozkoší vnímala, jak mne slunce zvolna rozehřívá. Jsi skvělá! Dokázalas to! Hřímaly tribuny v mé hlavě. Když se srdce zklidnilo a ztěžklé tělo zas začalo žít, zvedla jsem se z trávy; bylo třeba dojít k cíli. Měl pravdu – poznala jsem tu cestu: vystlaná prohřátým prachem se točila mezi poli. Asi po půlhodině chůze jsem došla k ceduli stlučené z prkýnek, vyrudlé a ošlehané větrem. Na ní byl omšelý nápis Konec. Jinak nic.
 
-Vítej v cíli!
+_Vítej v cíli!_
 
 Co? Tohle je cíl?
 
-Cíl tvé cesty. Konec. Vidíš, ne?
+_Cíl tvé cesty. Konec. Vidíš, ne?_
 
 Tohle??
 
-Čekalas bouři potlesku, blesky fotografů? Život není závod…
+_Čekalas bouři potlesku, blesky fotografů? Život není závod…_
 
 Ale všechno to snažení, ta námaha – to přece – ne, to neberu, na tohle nehraju!
 
-Jsi přece ze všeho venku; dokázalas to! Jsi volná, zvládlas to, můžeš jít, kam chceš!
+_Jsi přece ze všeho venku; dokázalas to! Jsi volná, zvládlas to, můžeš jít, kam chceš!_
 
 Jenže jsem stará! A tos mi neřek! Že se v těch zápasech zastavil čas! Že zatímco se vracím, čas běží dál!
 
-Neptala ses…
+_Neptala ses…_
 
 Ale to je podtrh! Jsem sama a stará!
 
-To jo – ale nastoupilas cestu – a tohle je její konec. Tím moje úloha končí.
+_To jo – ale nastoupilas cestu – a tohle je její konec. Tím moje úloha končí._
 
 Ale to nestačí!
 
-Konec není famózní akord, gejzír, úder do kotlů – nebo jak si to představuješ… konec něčeho je, když už to nepokračuje. To je všechno… Představ si konec provazu, líp to pochopíš…
+_Konec není famózní akord, gejzír, úder do kotlů – nebo jak si to představuješ… konec něčeho je, když už to nepokračuje. To je všechno… Představ si konec provazu, líp to pochopíš…_
 
 Ale já se těšila, že…
 
-Tak si to něčím pocukruj, hoď to do krajky, ozdob ten konopný provaz hedvábnou bambulí… Jenže ta bambule už není ten provaz, chápeš?
+_Tak si to něčím pocukruj, hoď to do krajky, ozdob ten konopný provaz hedvábnou bambulí… Jenže ta bambule už není ten provaz, chápeš?_
 
 Tak asi tak nějak, paní doktorko – chtěla jste vědět, jak to všechno bylo, než mě sebrali, když jsem dvanáctého osmý v devět ráno vešla nahá do bistra na Vinohradské ulici, postavila se do fronty a čekala, až na mě přijde řada. Takhle nějak, aspoň co si pamatuju.
 

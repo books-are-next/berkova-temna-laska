@@ -3,157 +3,155 @@ title: "Zápas s\_andělem"
 contentType: prose
 ---
 
-  
-
 Kamenný anděl hubí vše živé.
 
 Kamenný anděl je rád sám. Kamenný anděl přichází, aby trestal. Bojím se.
 
-Nezastavuj se, jdi dál!
+_Nezastavuj se, jdi dál!_
 
 Mám strach. Ta nehybná mohyla na horizontu, to temno nade mnou a všude kolem, to bušení srdce, ta úzkost, to je on?
 
-Ano. Jdi a přemož ho.
+_Ano. Jdi a přemož ho._
 
 Nemůžu, nesmím!
 
-Musíš, sic přemůže tebe. Spolkne tě, pohltí, udusíš se v něm. Jdi a přemož ho. Sraz ho k zemi a řekni, nepustím tě, ačli mi požehnáš! Jinak se budeš vidět jen jeho trestajícím okem a budeš mluvit jen jeho řeč. Zmizíš v něm. Přemož ho!
+_Musíš, sic přemůže tebe. Spolkne tě, pohltí, udusíš se v něm. Jdi a přemož ho. Sraz ho k zemi a řekni, nepustím tě, ačli mi požehnáš! Jinak se budeš vidět jen jeho trestajícím okem a budeš mluvit jen jeho řeč. Zmizíš v něm. Přemož ho!_
 
 Ale co pak? Pak budu úplně sama?
 
-Ano.
+_Ano._
 
 … ale má bestie umírá, chuděra, potřebuje mě; už pozbyla sil, ztratila šťávu, ty její šlehy už nejsou tak tvrdé jak dřív, už nejsou tak elegantní, tak smrtelné… Dětinští: šišlá a zkouší se lísat. Jenomže já vím svoje a držím se stranou; na jedno zabití měla bestie sil vždycky dost…
 
-Anděl ji dorazí. Už na to čeká, už krouží kolem.
+_Anděl ji dorazí. Už na to čeká, už krouží kolem._
 
 Je mi jich líto.
 
-Neuhýbej. Jdi dál.
+_Neuhýbej. Jdi dál._
 
 Ten můj – kdyby ho otec nemlátil botou po hlavě, kdyby ho strýc nemiloval láskou ženy – kdyby mu bratr nemočil do postele a matka ho nenabízela k adopci, kdyby ho tenkrát ty lysé lebky nevehnaly do rybníka, kde musel stát celou noc a čekat, až se vyzvracejí, až jim dojde pití, až znásilní tu nezletilou a holemi utlučou toho pitomce, co se jim v tom snažil zabránit…
 
-Kdyby neexistuje.
+_Kdyby neexistuje._
 
 Ale zlu přece musíme čelit!
 
-Na tohle nestačíš, nezastavuj se, jdi dál!
+_Na tohle nestačíš, nezastavuj se, jdi dál!_
 
 Ale…
 
-… to jsi ty, Molochu?
+_… to jsi ty, Molochu?_
 
 Já.
 
-Jen kveteš.
+_Jen kveteš._
 
 Já vím. Krátím jim životy a oni mi za to platí.
 
-Jak to, že jim krátíš životy a oni ti za to platí?
+_Jak to, že jim krátíš životy a oni ti za to platí?_
 
 Jsou hloupí. Milujou náhražky. Beru jim zlato a prodávám slámu. Mají z toho radost. Hodně platí.
 
-Vždyť přece jméno je jenom zvuk – to jsou tak hluší a slepí?
+_Vždyť přece jméno je jenom zvuk – to jsou tak hluší a slepí?_
 
 Mění iluzi za život, milujou sklíčka a stíny a duhové kuličky, zmenšeniny, nápodoby, modely, náhražky – hrajou si s tím, připadají si jako bohové a hodně platí. Hodně a rádi. Čím víc platí, tím jsou šťastnější.
 
-Vždyť oni ty peníze platí svým životem – to se jim líbí?
+_Vždyť oni ty peníze platí svým životem – to se jim líbí?_
 
 Nevěřil bys, kolik života jsou ochotni obětovat, aby si vydělali na útěk ze života. Krásná doba.
 
-… Slyšelas? To řekl Moloch, vládce dvouhlavých démonů anarchie, jehož úkolem je spolu se Satanem udržovat na světě v chodu zvrácení hodnot, spory, konflikt a svár. Svět se sváří – a Moloch se Satanem jsou konečně zajedno. Krásná doba – slyšelas dobře?
+_… Slyšelas? To řekl Moloch, vládce dvouhlavých démonů anarchie, jehož úkolem je spolu se Satanem udržovat na světě v chodu zvrácení hodnot, spory, konflikt a svár. Svět se sváří – a Moloch se Satanem jsou konečně zajedno. Krásná doba – slyšelas dobře?_
 
 Ano.
 
 (ministerstvo obecného blaha vypisuje konkurz na specialistu v oboru fám pro mediální komunikaci. Požadavky: dobrá orientace v oborech _mimozemšťané_, _nové choroby_, _nebezpečný hmyz_ _a hollywoodské hvězdy_.)
 
-Na tohle nestačíš. Mysli na zápas s andělem, pokračuj dál!
+_Na tohle nestačíš. Mysli na zápas s andělem, pokračuj dál!_
 
 Ano:… to město je staré. Cizí – ne, znám to tu. Ulice zanedbané, oprýskané domy, kdysi vznosné jako sláva zašlých princezen. Horkem rozpálená prkna – městská plovárna. Vyprahlý trávník přecpaný ležícími těly. Konec šedesátých let. Hloučky živě debatujících naháčů u stánku s pivem. Houfy vos kolem odpadkových košů. Betonová nádrž s kalnou vodou…
 
-Jak se jmenuješ?
+_Jak se jmenuješ?_
 
 Karolína.
 
-Kolik je ti let?
+_Kolik je ti let?_
 
 Bylo mi šestnáct. Nemám sourozence a svět je zlý. Musím mu čelit. Musím být ve střehu. Jsem sama. Tady na té plovárně a všude. Něčeho se bojím. Jím nanukový dort.
 
-Dál.
+_Dál._
 
 Říkají o mně, že jsem odvážná, nadaná, že všechno zvládnu. Tak ochraňuji slabé a nosím za ně těžká břemena. Ale mám pořád z něčeho hrozný strach. Nemůžu se nadechnout a často se mi děsivě rozbuší srdce. Proto jím ten dort.
 
-Dál.
+_Dál._
 
 Tohle koupaliště se jmenuje Zámecká zahrada. Jde se k němu od divadla Zelenou ulicí. Je temná a křivolaká; kdysi byla zřejmě bohatá a zdobná, soudíc podle karyatid s uraženými prsy a rozpadlých balustrád. Za chvíli sním ten nanukový dort. Bude mi zle. Tatínek s maminkou nade mnou budou zas vrtět hlavou. Tatínek s maminkou nade mnou už dávno zlomili hůl; jsem hrozná a jsou se mnou jen potíže. Oni jsou skvělí. Tatínek je doktor, maminka herečka. Škoda, že jsem se jim narodila: mohli si žít…
 
-Kam jdeš?
+_Kam jdeš?_
 
 Pryč – jsem tady navíc…
 
-Jsi tu na svém místě: pokračuj!
+_Jsi tu na svém místě: pokračuj!_
 
 Král je z kamene, královna z bláta. Skvěle se doplňují.
 
 Bláto je proměnné: jednou je pevné, podruhé teče mezi prsty. Potom se blyští, plane – a pak smrdí stokou. Teď zrovna je toxické a pokouší se mě zabít. Proto musím sníst celý ten dort – abych na to zapomněla. Rozhodla se skořápka, že zahubí kuře – sranda, co? Miluje ji. Anděl. Mě ne. Kane z ní lež tak přirozeně jako z jater žluč… Jdu do budoucnosti, tam je líp…
 
-Prostě to nezvládli – pokračuj!
+_Prostě to nezvládli – pokračuj!_
 
 Kecy.
 
-Každý čeká od svých dětí, že budou lepší než on; jak jinak by se měl zlepšit svět?
+_Každý čeká od svých dětí, že budou lepší než on; jak jinak by se měl zlepšit svět?_
 
 Nasrat!
 
-Čekají: nezakotveni a opřeni o sebe jako domeček z karet; existují jen ve vzájemném propojení, v chuchvalcích, které se co chvíli hroutí… I Anděl měl svého anděla, který ho na povel trestal, i bestie měla svou bestii, která z ní rvala játra –
+_Čekají: nezakotveni a opřeni o sebe jako domeček z karet; existují jen ve vzájemném propojení, v chuchvalcích, které se co chvíli hroutí… I Anděl měl svého anděla, který ho na povel trestal, i bestie měla svou bestii, která z ní rvala játra –_
 
 Ať táhnou k čertu!
 
-Už jsou tam – pokračuj!
+_Už jsou tam – pokračuj!_
 
 Ach bože – je mi čtrnáct – plácám tenis o zeď na kurtech na Letné. Ten kluk na mě kouká – vsadili jsme se o nějakou pitomost – že neudržím míček ve vzduchu nebo tak – bože –
 
-Dál!
+_Dál!_
 
 No – sakra – o facku jsme se vsadili, no – a já vyhrála… já mu tu facku dala, tomu klukovi – já idiot – ty jeho zmatené oči. Myslel si, že je to legrace – jenže, jak říkají kamenní andělé: jde o princip. Vždycky jen pravdu. Držet slovo. Plnit sliby. Doprdele… je mi to tak líto…
 
-Už je to pryč.
+_Už je to pryč._
 
 Není! Ta facka tam visí dál, celý ty léta, co jsem se tomu klukovi nemohla omluvit – ani ho neznám – nemohla jsem mu říct, že nejsem tak blbá z vlastního rozhodnutí, ale z pitomé, překotné ochoty naplnit tuhou vůli kamenných andělů… celou tu dobu visí ta facka v prostoru mýho bytí jako planoucí stigma blbých, snaživých holčiček, ochotných zkamenět, ochotných zranit, ochotných se přerazit „pro dané slovo“, „pro věc“ – tak co, děti, co myslíte? Má se říkat pravda? Ano! Nebo se má lhát? Ne! A mají se plnit sliby? Ano! A vždycky, za každých okolností? Ano!! I když je nám to někdy nepříjemné? Ánó!!! A tak pitomé holčičky v naději na úsměv – na pochvalu – na pohlazení kamenných andělů kopírují jejich kamenné krutosti – donekonečna a furt – a nikdo je za to nepochválí, nikdo nepohladí a nikdo je nemá rád – a proto bolest ze světa nikdy nezmizí…
 
-Jdi dál.
+_Jdi dál._
 
 Nechci.
 
-Musíš, nebo to v tobě shnije a potom vybuchne. Roztrhá tě to na cucky a zůstaneš tak, v cárech, sama, smrdutá zoufalstvím a přitažlivá jako pukavec, jako nevyvezená žumpa…
+_Musíš, nebo to v tobě shnije a potom vybuchne. Roztrhá tě to na cucky a zůstaneš tak, v cárech, sama, smrdutá zoufalstvím a přitažlivá jako pukavec, jako nevyvezená žumpa…_
 
 Jednou – bože, to byl trapas: léto, večer, tma v Kollárově ulici proti Očistným, později Městským lázním. Jsou krásné: zdobné a v nových barvách. Stáli jsme na rohu a ten kluk mě políbil na rozloučenou… Říkala mi kamarádka z Bostonu, že nikde ve světě už se nestojí „na rohu“ – jen u nás. Jinde jsou mladí spolu v autech, v půjčených bytech, v parcích, na diskotékách – různě – ale naše generace v Čechách randila na rohu: stávali jsme celé hodiny a opírali se o zeď na rohu ulice, kde milá bydlí…
 
-Neuhýbej.
+_Neuhýbej._
 
 Já vím; no – bylo to krásný: byli jsme tam, sami, v noci, v těch lázních. Vylezli jsme nahoru po žebříku, z parku do patra a oknem přes pánské šatny rovnou k bazénu. Objevila jsem tu cestu, dobrodružnou a nádhernou: miluju vodu, bazény, chlor – uplavala bych se k smrti. Noc, tma, pleskání vody, bazén jen pro sebe, dvě těla – mokrá objetí… No a pak venku, před domem, mě políbil na rozloučenou. A já, trdlo snaživé, já jsem mu podala ruku a pevně jsem mu ji stiskla, jak jsem to viděla v sovětských filmech; kdosi na tenise mě ten den chválil, že mám pevný stisk – a já myslela, že to tak musí být, že je to tak správně… Zaúpěl: „to se nedělá!“ a znovu mě objal a políbil – a já, zblblá trémou, jsem mu tu pravici podala zas… Ó hrůzo, ta strašlivá pitomost snaživé holčičky… ještě dnes je mi horko, jak se za to stydím!
 
-Jsme na světě tak dlouho, dokud nezvládnem učivo svého stupně – pak opouštíme tělo a jdeme dál.
+_Jsme na světě tak dlouho, dokud nezvládnem učivo svého stupně – pak opouštíme tělo a jdeme dál._
 
 To je všechno?
 
-To stačí.
+_To stačí._
 
 A co radost? Co štěstí?
 
-Štěstí není smyslem života – jdi dál!
+_Štěstí není smyslem života – jdi dál!_
 
 A co je smyslem života?
 
-Život. Nestarej se, jdi dál.
+_Život. Nestarej se, jdi dál._
 
 Život? Jenom? Ještě je ale něco za tím? Nad tím – mimo – navíc?
 
-Kdo ti to řekl?
+_Kdo ti to řekl?_
 
 No – píše se o tom, všechna náboženství to naznačují…
 
-Blbost; je jenom zima a tma. A ticho. A tenhle pokus; barevný cvičiště, prstýnek z pouti v té tmě. Doznění Velkého Třesku. Pšouk absolutna v oceánu nicoty… nemysli na to – jdi dál.
+_Blbost; je jenom zima a tma. A ticho. A tenhle pokus; barevný cvičiště, prstýnek z pouti v té tmě. Doznění Velkého Třesku. Pšouk absolutna v oceánu nicoty… nemysli na to – jdi dál._
 
 Je mi sedmnáct. Přichází frajer s hřebenem v zadní kapse kalhot. Jsem sešněrovaná v půjčených šatech. Jdeme na „čaje“. Odpolední čaje jsou večer a pije se tam rum. Buší mi srdce. Můj frajer není ani fešák, ani chytrák, ani s ním není psina, ale jsem jeho a on je můj. Pro tenhle večer. Buď ráda, že někoho máš, kdo s tebou jde. Sotva dýchám v těsných šatech, držím se ho a jsem ráda, že někoho mám, kdo se mnou jde. Táhne z něj pivo. Říká mi:
 
@@ -161,11 +159,11 @@ Hele, ty seš teď moje holka a seš tady se mnou, rozumíš? Tak budeš poslou
 
 Fuj, to byla hnusná doba…
 
-Každý máme, co si vyberem.
+_Každý máme, co si vyberem._
 
 Já si to přece nevybrala, já jen…
 
-Někdy člověk prostě podlehne panice…
+_Někdy člověk prostě podlehne panice…_
 
 Prochází kolem bledá bytost a monotónně odříkává:
 
@@ -173,15 +171,15 @@ Asi to má být, že umíme jenom tam a zpět, asi to má být, že překračuj
 
 ano: stará cesta, mizerná jistota, malá domů, s hulvátem na čaje, buď ráda, že aspoň něco, i kdyby tě to mělo zabít… Rozumím…
 
-Tak pokračuj.
+_Tak pokračuj._
 
 Je mi šestadvacet. Nerada se líčím. Tu hnusnou ženskou nebudu ještě přikrašlovat. Moje drobounká maminka-panenka říká: z naší infantky se stala elefantka! Ta je celá po něm! jak ji vidím – celá tchýně! Taky dupe jako slon! Ta mi zůstane na krku, kdo by ji chtěl, slonbidlo… Hlasitě se směje perlivým smíchem křehoučká matička-krasavice, ještě dneska by mohla hrát děvčátka, jen mít tu šanci, všichni se o ni prali, tenkrát v tanečních…
 
-Pokračuj.
+_Pokračuj._
 
 … ale jsem správná holka. Je na mě spoleh. Jsem upřímná. Říkám vždycky pravdu do očí. Chci slyšet pravdu a říkám pravdu. Pravda je nejdůležitější. Protože abych se mohla spolehnout. O to jde. Protože abych mohla věřit. Já beru všechno vážně. Proto se nelíčím. Aby bylo vidět, jaká jsem. Že nejsem nějaká – a že držím slovo. Nestěžuju si. Nereptám. Naložte na mě, já to unesu. Jsem věrná jako pes. Zaručuju absolutní jistotu, spolehlivou jako klepeto; sevření věrnosti pod reflektorem pravdy. Až za hrob. Nikam se neschováš. Tak proč mě nemáš rád?
 
-Kdo?
+_Kdo?_
 
 Ty, co ses vynořil u kraje bazénu, pevná hnědá ramena zmáčená vodou, řasy slepené vodou, veliké bílé zuby, pevná šíje; vůně chloru, hvizd píšťalky se odráží od kachlíkových stěn – chodila jsem plavat jen kvůli tobě, tolik jsem tě chtěla – tolik se snažím, mám samé jedničky, tak proč mě nemiluješ?
 
@@ -199,35 +197,35 @@ Jsem tu, uvízlá v krajině bez výhledu, oddaná jako pes a věrně čekají
 
 (Moje dcera se neutopí. Jestli se utopí, nebyla to moje dcera.)
 
-Je to jen přízrak.
+_Je to jen přízrak._
 
 Ale zatratil mě.
 
-Zatrať ho taky! Nepřijmi jeho kletby! Řekni: najdu si jiného boha, když jsi tak krutý…!
+_Zatrať ho taky! Nepřijmi jeho kletby! Řekni: najdu si jiného boha, když jsi tak krutý…!_
 
 Řeknu mu: přijmi mne, ó strůjce náhradních světů, majiteli pravd a mechanických hraček! Ty, vědoucí, co je dobré a co zlé, co umíš všechno tak krásně vysvětlit! Požehnej mi, neboť co bych byla bez tebe, kdybys mne shledal nicotnou, věčně zaneprázdněný mysliteli; co máš pořád práce: co piva je stále nevypito, co nálepek nesebráno, co nesmyslů je na světě ještě nezdůvodněno! Hle, zkrocené zvíře žena líbá tvou trestající ruku…
 
 Zatratit ho? To se přece nesmí!
 
-Může. Nech žvanivé starce sípat a slintat a klít a drmolit si svoje; netřeba tomu čelit – samo se to rozplyne v nicotě; jako všechno stvořené jsi původně dobrá, a proto nezabiješ, nepokradeš a tak dál zcela přirozeně – bez kleteb a varovných prstů… na zatracení stejně musejí být dva: ten, kdo zatracuje – a ten, kdo to přijímá. Přijmeš to? Nemusíš. Nejsi povinna. Slunce svítí, starci žvaní a každý si troufne, kolik mu dovolíš. Když ti tohle dojde, budeš u cíle. Rozumíš?
+_Může. Nech žvanivé starce sípat a slintat a klít a drmolit si svoje; netřeba tomu čelit – samo se to rozplyne v nicotě; jako všechno stvořené jsi původně dobrá, a proto nezabiješ, nepokradeš a tak dál zcela přirozeně – bez kleteb a varovných prstů… na zatracení stejně musejí být dva: ten, kdo zatracuje – a ten, kdo to přijímá. Přijmeš to? Nemusíš. Nejsi povinna. Slunce svítí, starci žvaní a každý si troufne, kolik mu dovolíš. Když ti tohle dojde, budeš u cíle. Rozumíš?_
 
 Jo – ne.
 
-(Opakujte po mně, snaživá děvčátka: ty nabubřelá kobliho, ty zažívací trubice, mrtvá na vršek, s erekcí pravého ukazováku, na tvý kletby sere pes!)
+_(Opakujte po mně, snaživá děvčátka: ty nabubřelá kobliho, ty zažívací trubice, mrtvá na vršek, s erekcí pravého ukazováku, na tvý kletby sere pes!)_
 
 Potřebuješ se nadechnout, potřebuješ prožít svou sílu: jsi dospělá a odpovídáš za svůj život – přijde to samo – jen odhoď pouta; odhoď ta pouta!
 
-(Pupeční šňůra, kotevní lano, ta vlažná, malátná jistota a sladkobolná droga nenávisti k vězniteli, není-li to krásnější než syrová smršť svobody?)
+_(Pupeční šňůra, kotevní lano, ta vlažná, malátná jistota a sladkobolná droga nenávisti k vězniteli, není-li to krásnější než syrová smršť svobody?)_
 
 Jaká pouta? Já nevím…
 
-Ničeho se neboj, jen pomalu: odpusť mu, že není Bůh, odpusť mu, že dělal chyby, odpusť mu, že se mýlil, že ti ublížil, že neměl pravdu; od-pusť, pusť se své lítosti a vzteku, hoď to za hlavu – pak budeš u cíle a ve všem se ti uleví…
+_Ničeho se neboj, jen pomalu: odpusť mu, že není Bůh, odpusť mu, že dělal chyby, odpusť mu, že se mýlil, že ti ublížil, že neměl pravdu; od-pusť, pusť se své lítosti a vzteku, hoď to za hlavu – pak budeš u cíle a ve všem se ti uleví…_
 
 Já nevím – počkej – nech mě – bolí mě hlava – celý to byla blbost – chci zpátky do boudy!
 
 (na plátně vidíme právě vylíhlé mládě kachny divoké: vyklubalo se z vejce, rozhlédlo se a hned začalo strkat hlavu zpět. Vědec do něj šťouchá pravítkem a říká: „z neznámého důvodu se kachně marně snaží dostat zpět do skořápky…“)
 
-Rozbij tu skořápku, než z tebe bude pukavec!
+_Rozbij tu skořápku, než z tebe bude pukavec!_
 
 (Zpět do skořápky – zpět k matce do klína – zacouvat, zrušit to – pryč – rozumím.)
 
@@ -235,11 +233,11 @@ Jakou skořápku? jaká pouta? Nerozumím – žádná přece nemám – tahle
 
 – pouta, náramky, no a co? no tak je nosím, čistě jen pro formu – říkáte sundat – a proč vlastně? Vždyť mi docela sluší – už jsem si zvykla, koukněte, když dám ty náramky mezi náramky – mezi drahé a krásné náramky – co?
 
-Pak bys mohla jít, kam budeš chtít…
+_Pak bys mohla jít, kam budeš chtít…_
 
 Ale kampak bych chodila, já nikam nechci – sundat okovy, prosím, ale čímpak bych cloumala? kdybych je neměla? a koho pak budu za všechno vinit? když mu odpustím?
 
-Toužilas odejít…
+_Toužilas odejít…_
 
 No jo, to bylo. To byl jen takovej – jenom sen – uvolnit se – odejít – moře – teplo, prohřáté tělo, které mě objímá – objímá… no nic… To jsou takový blbinky – chvilková slabost, nic víc – každej máme něco, blebleble – život není peříčko, blebleble, všude je chleba o dvou kůrkách, blebleble, nikdo mě nebude bavit, vitamíny a čerstvej vzduch, dočista dočista zářivě bílé nevaž se odvaž se tak báječně dlouho hygienicky čisté pro všechny druhy tkanin…
 
@@ -257,11 +255,11 @@ Stojím; pohyb je latentně přítomen jako neprobuzená možnost: čeká. Nula:
 
 Mimochodem, co dělá ten můj?
 
-Zabalil se do sítě, nasazuje si pouta a čeká; až půjde kolem nějaká nová, čerstvá, odpočatá, bude hotovo.
+_Zabalil se do sítě, nasazuje si pouta a čeká; až půjde kolem nějaká nová, čerstvá, odpočatá, bude hotovo._
 
 Ne…
 
-Ale jo, ale jo…
+_Ale jo, ale jo…_
 
 Děti na písku volají: congo tongo děnge langaš? to je naše tajná řeč! Aby nám nerozuměli!
 
@@ -499,11 +497,11 @@ Chodím pětkrát týdně na panské, aby bylo na brambory a tak.
 
 A chodím za placeným odborníkem. Všechno mu to říkám a on pozorně naslouchá, a když se zeptám, co s tím vším, co můžu dělat, jak to můžu změnit, pokývá hlavou a řekne: ano, co? Nebo: inu, inu. Anebo: kdoví, já neříkám ani tak, ani tak, kdopak se ve mně vyzná… Tak mu zaplatím a táhnu zas po svých. Kdyby mi řekl, že se dá něco změnit, nebyl by odborník. Kdyby mi řekl, že se nedá změnit nic, nebyl by placený.
 
-Už jsi připravena.
+_Už jsi připravena._
 
 Na co? Kdo jste? Kde je učitel?
 
-Jsem tvoje společnice. Učiteli vypršel čas. Jdeme do země žen: co vidíš…?
+_Jsem tvoje společnice. Učiteli vypršel čas. Jdeme do země žen: co vidíš…?_
 
 Vidím bytosti uvízlé v krajině bez výhledu; hledí jedním směrem –
 
@@ -741,11 +739,11 @@ Zírala jsem na ni a současnost všech nekonečností mi vířila hlavou: kvas
 
 Rodiče neexistují: jsou jenom děti. Kterým se rodí zas děti. Všude jsou jen a jen děti – některé se narodily už dávno, jiné později a jiné před chvílí… a tak dál a pořád dokola – a mladé nabírá sílu od starého a silné se odděluje od slabého jemně a s plným porozuměním, jako se od poupěte oddělují zelené lístky v pravý čas, aby nebránily květu, jako kuře opouští skořápku v pravý čas, aby mohlo dýchat; šílená skořápka, která odmítá povolit; šílené kuře, které čeká, že se otevře sama; šílený blb, kdo staví kuře a skořápku proti sobě jako dva soupeře…
 
-Už přišel čas.
+_Už přišel čas._
 
 Ty jsi tady?
 
-Pořád jsem tu: nadešla chvíle zápasu s andělem…
+_Pořád jsem tu: nadešla chvíle zápasu s andělem…_
 
 Bojím se k němu vzhlédnout. Je tak strašný – totiž, on není strašný, je jenom nehybný, to je na něm to strašné – ale on se nehýbe, protože se bojí; ví, že se nesmí projevit, a tak neřekne slovo za sebe; mluví, jako by tlumočil úřední sdělení, sděloval přírodní zákon: každý máme svou pravdu, blablabla, a tak se navzájem přesvědčujeme o těch svých pravdách, blablabla, můžeme donekonečna diskutovat o těch svých pravdách, protože je tolik pravd, kolik je lidí, blablabla – snad by se hodilo, aby už konečně… jeden by řekl, ale to ne, to se musí pořád… jaksi by se slušelo… je obecně známo… ano, ale stejně tak je možné říct… a na druhé straně zas mohu tvrdit, ty tvrdíš to, ten zas ono a pravda je vždycky uprostřed… blablabla – neosobní tlumočník absolutna – schovaný za pletence slov – už dávno ztratil rozlišovací schopnost, co je skutečné a co ne – zatímco jeho malé, zakrslé já přebývá za mohutnou zdí těch neosobních vět, jimiž je obehnáno jak štítem, aby mu nikdo nemohl nic říct – a tam taky zestárlo, aniž cokoli slyšelo, protože mu nikdo nemohl nic říct…
 
