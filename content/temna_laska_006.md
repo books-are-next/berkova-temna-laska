@@ -3,6 +3,8 @@ title: "Zápas s\_andělem"
 contentType: prose
 ---
 
+<section>
+
 Kamenný anděl hubí vše živé.
 
 Kamenný anděl je rád sám. Kamenný anděl přichází, aby trestal. Bojím se.
@@ -63,7 +65,15 @@ _… Slyšelas? To řekl Moloch, vládce dvouhlavých démonů anarchie, jehož 
 
 Ano.
 
+</section>
+
+<section>
+
 (ministerstvo obecného blaha vypisuje konkurz na specialistu v oboru fám pro mediální komunikaci. Požadavky: dobrá orientace v oborech _mimozemšťané_, _nové choroby_, _nebezpečný hmyz_ _a hollywoodské hvězdy_.)
+
+</section>
+
+<section>
 
 _Na tohle nestačíš. Mysli na zápas s andělem, pokračuj dál!_
 
@@ -241,17 +251,37 @@ _Toužilas odejít…_
 
 No jo, to bylo. To byl jen takovej – jenom sen – uvolnit se – odejít – moře – teplo, prohřáté tělo, které mě objímá – objímá… no nic… To jsou takový blbinky – chvilková slabost, nic víc – každej máme něco, blebleble – život není peříčko, blebleble, všude je chleba o dvou kůrkách, blebleble, nikdo mě nebude bavit, vitamíny a čerstvej vzduch, dočista dočista zářivě bílé nevaž se odvaž se tak báječně dlouho hygienicky čisté pro všechny druhy tkanin…
 
+</section>
+
+<section>
+
 Někdy jsou rána chladná jako dopisy od matky.
+
+</section>
+
+<section>
 
 Kdysi jsem toužila z boudy utéct, ano, to je už dávno; odrážela jsem se od země s larvou pod paží, chtěla jsem vzlétnout, ale to bylo dávno, co jsem uměla lítat; chvíli jsme byly i půl metru nad zemí, ale pak jsme zas spadly dolů; prý mě tížily řetězy, prý jsem je měla sundat – ale já nevěděla, že se to smí – kdo to má vědět?
 
+</section>
+
+<section>
+
 S ostudou jsem se vrátila do boudy. On byl velmi rozmrzelý; ne že jsem ho chtěla opustit – našel by si jinou – ale že to viděli lidi. Viděli to a on myslel, že se mu smáli, a to ho žralo. Řekl, hele, děláš mi ostudu, co si o mně lidi pomyslej, že se mi baba toulá, že mi zahejbá, jak teď před nima vypadám, že na tebe nestačim! A vyšel před boudu, procházel se tam pomalu a hlasitě zdravil sousedy: hej! Jak je? U nás všechno dobrý! Dostala po čuni – mám to v paži! Mám to pod kontrolou!
+
+</section>
+
+<section>
 
 Rovnováha: nehybnost – smrt.
 
 Vychýlení z rovnováhy – pád – předsunutá noha jej zastavuje – vyrovnání – vychýlení – pád – druhá noha se předsouvá – vyrovnání – vychýlení – pád – jako na vlnách, ale půjde to, půjde to…
 
 Stojím; pohyb je latentně přítomen jako neprobuzená možnost: čeká. Nula: všechna další čísla dřímají ve stadiu možného; čekají na svou příležitost. Nula = střed = střet: místo setkání, z něhož nekonečno ještě nevyšlehlo. Stojím. Ještě nezmírám ve vichru strachů: ještě ne papírek ve větru, skořápka ve stoce, chodec na laně – ještě stojím a čekám. Snažím se. Snažím. Je to dřina, je to dřina…
+
+</section>
+
+<section>
 
 Mimochodem, co dělá ten můj?
 
@@ -261,15 +291,35 @@ Ne…
 
 _Ale jo, ale jo…_
 
+</section>
+
+<section>
+
 Děti na písku volají: congo tongo děnge langaš? to je naše tajná řeč! Aby nám nerozuměli!
 
 Ano: „_my_ to řikáme takhle, aby nám _oni_ nerozuměli“! _My_, co spolu mluvíme, co jsme rodina… versus _oni_, ti jiní, cizí, ne naši… takže řeč vznikla kvůli nedorozumění? Tak proto…!
 
+</section>
+
+<section>
+
 (Ukradneme za vás! Krádeže přenechte profesionálům! Předejdete tak zbytečnému poškozování budov a sejfů a přitom ušetříte státu zbytečné výdaje na policejní akce, protože profesionálně ukradené peníze už stejně nikdo nehledá…!)
+
+</section>
+
+<section>
 
 Piju, pani doktorko, piju. Já vím, že nesmím. Odešla jsem – utekla jsem – jen tak se plácám a piju. Aspoň nějaký hřích… Jaro zas a znova vstává jako fénix z popela, aby se vysmálo mým ostatkům. Vy netušíte, jak to bolí, vy dužnatí, krevnatí a hluční, co tak samozřejmě splýváte s vínem, a ono z vás bezostyšně šlehá a probouzí lásku i v tak letitých ruinách, jako jsem já – vy nevíte, jak to bolí, když _u pramene jsem a žízní hynu_…
 
+</section>
+
+<section>
+
 Neměla bych pít: nesmím. Jenže stačí pár loků, a vyskočím si z hlavy – svět změkne – tak proč se trápit střízlivým pohledem na ty šťastlivce…?
+
+</section>
+
+<section>
 
 Ale já mám důvod pít, paní doktorko, protože se rozvádím – tedy nerozvádím, ale rozcházím – nerozcházím, jenom se odstěhuje – neodstěhuje, ale budem už jenom kamarádi, protože on je asi homosexuál – no, on ne že by měl rád muže, ale nemá rád ženy – tedy ženy ano, ale nemá rád mě. Prostě je mu líp samotnýmu – vlastně ne úplně samotnýmu, ale to na věci nic nemění – sakra, copak je to tak těžký pochopit? A vůbec, byl by blbej, aby se někam stěhoval, ať vypadnu já!
 
@@ -277,29 +327,73 @@ Proto piju, pani doktorko, protože ho zabiju a budu zavřená.
 
 Možná ale nebudu zavřená, možná budu mejt nádobí někde v Hamburku, kam uprchnu v sudu s kyselým zelím.
 
+</section>
+
+<section>
+
 (Vítejte na festivalu filmů Génius, nebo ďábel? Série snímků o známém masovém vrahovi přiblíží jeho fascinující osobnost a polechtá vaše nervy! Svůdce celého národa! Jaký byl v soukromí? Jaké měl číslo bot? Jaké spodky? Jakou stolici? Dokázal zařídit vyhubení téměř celé jedné rasy; génius, nebo šílenec? Vůdce! Dívejte se!)
+
+</section>
+
+<section>
 
 Kolikrát už jsme doplatili na duševně choré, kteří musejí někoho ponížit, aby sebe povýšili, někoho zlomit, aby se narovnali, a někomu velet, aby se vůbec cítili dobře na světě – ubozí… Holdují svým duševním neduhům ve státní správě a za řečnickými stolky – jak jsme velkorysí! Místo co bychom je léčili, vkládáme jim do rukou moc – nebo jsme jenom líní se zničit sami?
 
+</section>
+
+<section>
+
 Byl to vlastně docela hodnej člověk, ten masovej vrah, takovej slušnej – on ten rasismus jenom hrál! To byla od něj taková legrace, vždycky se smál a říkal, no co, lidi to chtěj, lidem musíš něco předhodit, koncentráky? To on tak jistě nemyslel. – Trochu smetany do čaje?
+
+</section>
+
+<section>
 
 _Ochránci všeho života_ na svém zasedání vydali prohlášení, že zabíjet je špatné. Po krátké potyčce kolem tématu jak a co chránit došlo plénum k závěru, že dojde k závěru.
 
 Odpoledne se po krátké potyčce od těch vegetariánů oddělili _Ochránci lidského života_, protože abychom nelezli do zelí těm zelenejm a ochráncům zvěře a tak.
 
+</section>
+
+<section>
+
 Večer se po krátké potyčce od těch pacifistů oddělili _Ochránci jednotlivého lidského života_, protože zabíjet ve velkém se smí. S tim holt nic nenaděláme, takovej už je život, že ženský pláčou a muži jdou do války… To nejde nikomu zakázat; zvlášť je-li to řádně ideologicky, politicky a nábožensky zdůvodněno. Protože co by si počal zbrojní průmysl a tak, že jo…
 
+</section>
+
+<section>
+
 Po krátké potyčce se od těch socanů oddělili _Ochránci jednotlivého, ještě nenarozeného lidského života_; ti si zatím stojí nejlíp, protože týrat a zabíjet už narozené – to je prosím každýho soukromá věc, do toho nikdo nikomu mluvit nebude – ale nenarozené – pardon – ještě jsme tu my!
+
+</section>
+
+<section>
 
 Pište si, milé děti: když seš blbej a mrtvej na vršek a bojíš se, že to na tobě každej pozná, musíš mít nad někým navrch! Šikovně udržuj úzkost a strach: s vyděšenejma se líp voře! Opakujte po mně: nemusim nic umět, ničemu rozumět ani nic dělat, ale musim někoho ovládat a něčemu velet! Sežeň si lidi, co na tebe budou makat! Daně platěj jen pitomci! Prací se živí jen blbec! Svět patří nám! Je vám to jasné?
 
 Pro ty v posledních řadách, co neslyšeli: dáma do naha, pán v kravatě; dáma na kolena a žere pánovi z ruky: je vám to jasný, co tady řikám? Nadřazenost! Nadvláda! Bílej nad barevným, člověk nad přírodou, chlap nad ženskou; von má sako, to je odznak moci, vona je nahá a žere mu z ruky a má na krku motýlka a eště by mohla mít na hlavě takový jakoby ouška a na prdýlce vocásek, aby to bylo jasný, to její ponížení, kdo jako je tady směšnej a kdo je koho pán, protože tim je daný to jeho povýšení, ta jeho hrdost, ta moc, že je nad ní, i kdyby si sral do kalhot; že je v žebříčku živejch tvorů na úplný špici, protože je bílej a je to chlap, je vám to jasný?
 
+</section>
+
+<section>
+
 Jsem střízlivá. Jsem absolutně střízlivá, až mě to samotnou zaráží, jak jsem střízlivá, na to, co jsem už vypila… Ale já jsem dneska musela, protože mě život omrzel – totiž – nechci nikoho vidět – mě totiž – s vínem mě totiž napadaj takový myšlenky o světě, o vesmíru – a celá ta východní filosofie, jestli mi rozumíte, Parmenides a tak – prostě – jako že nevstoupíš dvakrát do jedné řeky, nekousneš dvakrát do stejnýho jabka, ba ani totéž hovno dvakrát nevysereš – jestli rozumíte, co tím chci říct – milé děti – totiž pani doktorko, jako – že se všechno furt vopakuje, akorát že je to úplně jiný, i když – na druhou stranu – je to vlastně furt stejný, jestli mi rozumíte, co tim chci říct. Protože z ničeho nevyplývá vůbec nic. To je to tajemství života. Je vám to jasný? Mně teda je to jasný, já to mám promyšlený. Já jsem totiž dost přemejšlivej tvor, kolikrát. Takhle vo věcech.
+
+</section>
+
+<section>
 
 (Nesnášíš svoji starou? Leze ti krkem? Bojíš se vzít roha? Sežer jí sušenky! Hejbni jí s anténou! Budeš zas chlap!)
 
+</section>
+
+<section>
+
 Nově založená _Strana ochránců ještě nenarozeného lidského života_ vydala _Rozkaz o povinnosti ženy_ šířit mužovo sémě po vší zemi a nikdy jinak. Rozhodnutím vlády nabude tento dokument platnosti zákona od 1. 1. 01
+
+</section>
+
+<section>
 
 Stá-rá né-buď smutná,
 
@@ -309,33 +403,85 @@ Já si dám raz dva tři kor-bele
 
 A ty si běž, kam chceš, šrum šrum.
 
+</section>
+
+<section>
+
 … Po ránu si umím dát v bufetu sekanou a černý kafe a džus – a k tomu klidně třeba utopence a ruský vejce, aby bylo jasný, že se nebojim riskovat… Ale šiška mi maká, to ne že ne: například taky je zajímavý, že každá věc má svou dobrou a špatnou stránku: když třeba vezmu nůž a ukrojim tim chleba, je to jeho dobrá stránka, a když s nim uříznu starýmu koule, je to jeho špatná stránka. A tak je to se všim…
+
+</section>
+
+<section>
 
 Ale třeba mě tentokrát neshledáš nicotnou, ó pane, jsem přece užitečná a zužitkovatelná bezezbytku včetně kopyt – třeba mě podrbeš za uchem a řekneš, ty seš moje, co? – a poplácáš mě majetnicky a já učúrnu blažeností –
 
+</section>
+
+<section>
+
 Kocour se mi lísá kolem nohy – ne že by mě miloval, ale protože chce žrát. Prostě chlap. A kde je larva?
+
+</section>
+
+<section>
 
 Larva je divná. Říkám, že je divná. Nevím proč. Vídám ji málokdy – je podrážděná a cizí – jiná, než byla kdysi;
 
+</section>
+
+<section>
+
 jak jinak plyne čas v dětství: ta obludná doba, než bude Štědrý den, než bude večer – než se bude smět ke stromečku…! Už zase Vánoce? Vždyť byly před chvílí, co to dělají s časem?
 
+</section>
+
+<section>
+
 Mladý, rozechvělý člověk s vyděšenýma, zoufalýma očima, s očima zvířete zahnaného do kouta, s očima tonoucího… (sama jsi kdysi takové oči měla, řekl mi doktor) ty oči má teď larva… něco je jinak, je divná, sakra! Její divní kamarádi u ní v pokoji: bloudivé pohledy, špína, smrad – larva se na mě dívá jakoby z dálky, rozmazaně se usmívá a blbě se chechtá… nechci to vidět – nerozumím tomu, nevím, co mám dělat, koktám ten klasický blábol zoufalého rodiče, který nic nechápe: co je ti? Děje se něco? Máš problém? Řekni mi, mně se můžeš svěřit…!
+
+</section>
+
+<section>
 
 Přestanu pít. Nemá to cenu. Stojí to prachy a tak. Už mi to samotný vadí, tak s tim jednoduše praštim. Dokážu to. Prostě si řeknu, že dost, a přestanu, co jinýho, klidně, ne že ne. Tohle já umim, sebrat se, nadechnout, srovnat kostru a jít do toho; žádnej problém, to dokážu, jasně že to dokážu…
 
 Nedokážu.
 
+</section>
+
+<section>
+
 Piju, no a co, sakra, copak nemáme každej svýho dost? Piju, abych nemusela ven, do světa, kterýmu nerozumim, kde jsou všichni správný a všichni všechno zvládaj, jak to má bejt, každej někoho má, jsou spolu šťastný a maj zdárný děti a čisto za ledničkou, vyžehlený prádlo a ani gram přes váhu, jsou prostě skvělí, tak s tim táhněte do skal, sakra, já nesnáším pohled na šťastný lidi…!
+
+</section>
+
+<section>
 
 Mívala jsem kočičku, roztomilou, rozvážnou, baculatou a mazlivou – tenhle blbec by jen kousal a škrábal a žral. Málem si zlomil tlapu, jak se dostával do ledničky. Ráno mě budí – a pak si spokojeně chrápe. Jako měl Kain obraz Ábela kdesi na nebesích, tak má tenhle kocour obraz mé bývalé kočičky, která tolik nežrala a byla daleko milejší a čistotnější a vůbec ve všech ohledech dokonalejší… (ty zapomínáš, jak ti čurala do bot? řekla mi larva…)
 
 Ten kocour mi jde na nervy, protože je to chlap… S myšlenkami kalnými jako Berounka poslouchám, jak ve vedlejší ulici dodělává poplašné zařízení nějakého superauta zasaženého bleskem…
 
+</section>
+
+<section>
+
 (Jak se ti líbí tenhle bourák? Chceš ho? A nemáš na to? Prodej duši, chlape…)
+
+</section>
+
+<section>
 
 Piju, jako pijou lidi v té zemi s horizontálním deštěm; v zemi těžké práce, přísné víry, smyslu pro rodinu, skromnosti a neplýtvání, syrového větru a masově chlemtané pálenky po večerech, aby si od toho všeho člověk trochu odpočal…
 
+</section>
+
+<section>
+
 Nic nemá smysl, ale s vínem to tolik nevadí. Chladná, zasněžená cesta se přede mnou náhle vztyčila a měkce se mi opírá do horkých dlaní; podivuhodné. Hvězdy jsou velmi nízko a černé siluety stromů se ke mně kloní jako brooklynští krasavci. Těžká práce s těmi slovy… román o kočce by se taky nepovedl, protože nic tak sladkého, hebkého a měkkého se nikdy nepodaří napsat, aby to bylo ono. A aby to vrnělo.
+
+</section>
+
+<section>
 
 Ráda bych šla vstříc své slabosti, ale nemám tu sílu; z dálky sem zaznívá teskná píseň se strašnými slovy:
 
@@ -343,63 +489,171 @@ Ráda bych šla vstříc své slabosti, ale nemám tu sílu; z dálky sem zazn�
 
 Tak temná píseň – a hlas mé larvy, ó hrůzo!
 
+</section>
+
+<section>
+
 (Víš, co je to štěstí? Náš auťák, to je štěstí! Kdo má náš auťák, je šťastnej – a co ty…?)
+
+</section>
+
+<section>
 
 Není to pravda, ta píseň, larva je v pořádku, něco si namlouvám, je prostě jen někde pryč, za svými věcmi, je krásná a spokojená, skvěle si rozumíme; a já jsem taky v pořádku, zhubla jsem o kilo, koukněte, a všechno hned uklidím, dodělám, vyperu, vyžehlím, dopíšu – jen co budu mít čas – čas není, čas se dělá, hehe, ale všechno je v pořádku, jsem v pohodě, mám to pod kontrolou, duše mi uniká a plivu krev, jistoty zmizely a berle mi někdo vzal – nemám koho obvinit, koho nenávidět a koho trestat, mé náhražky někam zmizely, civím aspoň na neskutečné příběhy o neskutečných lidech, abych si vyrazila přítomnost z hlavy; budoucnost zčernala, uzavřela se, není: je jenom tenhle kal; nevím, co počít, utekla jsem od něj a larva utekla ode mne; je tu a není, vídám ji občas bledou a ztrhanou, pobývá ve světě, kam nedosáhnu, a před očima chřadne; ale jsem v pořádku, mám to pod kontrolou, jsem O. K., jsem v pořádku!
 
+</section>
+
+<section>
+
 (Odevzdejte nám svou vůli, my už s ní nějak naložíme!)
+
+</section>
+
+<section>
 
 Někdy se stane, že brečím ze spaní. A kocour mě opatrně drcne čumákem do hlavy – a pak mě s odstupem pozoruje. A potom dolejzá a já ho drbu za ušima a pod krkem s milostně zaťatýma zubama a posmívám se mu, co se lísáš, sviňáku jeden sladkej, chlupatej, kočičku hloupej, nevzdělanej, co ničemu nerozumíš, ani žádnej titul nemáš… a všelijak jinak ponižuju jeho srstnatou osobnůstku, a on se mi natahuje vstříc a otírá se mi o koleno svou bílou lebčičkou a své blbé oči na mě poulí jako to dítě ve veřejné zahradě –
 
+</section>
+
+<section>
+
 Víš, co je to štěstí? Náš auťák, to je štěstí! Kdo má náš auťák, je šťastnej – a co ty…? (sakra, děte s tim už konečně do hajzlu!)
+
+</section>
+
+<section>
 
 Jestli se neprobereš, maminko, všichni se od tebe odvrátí, maminko, on nechá zarůst tvůj hrob, maminko, jak já mám být šťastná, když ty jsi nešťastná?
 
+</section>
+
+<section>
+
 Říkám, že larva je v pořádku, sakra! To je přece běžné, že děti kritizují své rodiče, že s nimi mluví ne jako se sobě rovnými, ale jako s mladšími spolužáky – to je přece normální, ne?
+
+</section>
+
+<section>
 
 V hnusných pohádkách hnusných starců je psáno, že mám povinnost lásky skrze mříž jeho ocelového brnění, přes plot jeho práva zavřených vrat a hluchých zad, navzdory jeho právu na nespolupráci; v tom prý je má šance k sebezdokonalení. Kterou jsem povinna přijmout. A využít. Sežvýkat těch devět olověných chlebů a prodrat těch devatero párů olověných bot. Rozbíjet se o něj jako vlna o skalisko, pořád dokola, znovu a znovu; a za to pak přijde ta odměna a princ bude tančit jen se mnou, jen se mnou…? ne: znovu. Znovu a znovu – přijmout a překonat. Aby se lépe kalila má ocel, on bude hájit své chyby a zůstane dítětem s právem zlobit.
 
 Ale žádná odměna přece nepřišla, mami; povím ti tajemství: žádná odměna nepřijde, mysli na sebe, mami, to je to tajemství života, že žádná odměna nepřijde: mysli na sebe, maminko…!
 
+</section>
+
+<section>
+
 Ach ty děti, co ty si navymejšleji, pani, že jo! Víte, co mi tuhle řekla? Prej rozveď se, to mi řekla! Taky jsem mu to hned šla říct, aby věděl, co si o něm jeho dcera myslí! Povidám, víš, co mi řekla? Abych se s tebou rozvedla, to mi řekla! Abys věděl! A máš to!
+
+</section>
+
+<section>
 
 Jediná zbraň nevolníka je zrada.
 
+</section>
+
+<section>
+
 Já vím, překonání tíže. Já vím. Jenže ta jednou přijatá mříž je nad ocel pevnější; nostalgie po kleci, kde jsem byla v bezpečí bezmoci chráněna před vichrem svobody. V tom nehybném rosolu nehrozí změny, je jenom sen a všechno je tak jasné… Sladká bezmoci: nelze nic dělat, tedy není za co být odpovědný, čím být vinen a mezi čím volit… v boudě jsem všechno mohla hodit na hlavu jemu; v té sladké dřímotě, kde lze jen čekat a snít, si lze odžít bolest i zklamání a vybít vztek, taky lze nikdy nedospět, nenávidět a zůstat hodná: to on! – to on je vším vinen! Já nic, já bez viny! Co víc si přát?
+
+</section>
+
+<section>
 
 (Zdálo se, že kult Zlatého prasete, jenž nastoupil po starém kultu Rudého prasete, přinese výraznou změnu. No – on vlastně přinesl; Zlatá prasata jsou mladší…)
 
+</section>
+
+<section>
+
 Klub milovníků daní zahájil akci Za lepší životní podmínky poslanců, vlády a státních úředníků. Podrobným zkoumáním se zjistilo, že zejména vyšší úředníci jsou stále podplatitelnější, a protože se množí, vycházejí nabízet své služby do ulic: řidičské průkazy, stavební povolení, státní zakázky – a berou všechno. Cílem akce je shromáždit dost prostředků a zajistit takové platy, aby jmenované již nebylo lze podplatit. Většinu prostředků získáme národní sbírkou, část zrušením důchodů, nemocnic a škol.
+
+</section>
+
+<section>
 
 Kočiček si o světě nic nemyslí: on ho jen ochutnává; on je ještě v ráji…
 
+</section>
+
+<section>
+
 Parlament rozhodl, že poslanectví bude od příštího roku funkce dědičná. Tímto úsporným opatřením budou jednak vyloučeny zbytečné výdaje spojené s volbami, jednak bude demokracie zaručena rodinnou tradicí po meči. Po mečíku.
+
+</section>
+
+<section>
 
 Larva chce domů. Že prý nějaké problémy nebo co – ale jen takové maličkosti, nestíhá a tak. Prostě musí domů… Chová se podivně a vypadá zle: podrážděná, nepříjemná, vyhublá a bledá… často je jí špatně, večer někam na dlouho mizí a zbytečně lže…
 
 Nechci to vidět: sleduji příběhy krásných mladých lidí, kteří se podvádějí, milují, ubližují si a lžou, aniž je to na nich nějak znát; jsou stále stejně mladí, stále stejně dokonalí, stále stejně krásní v tom televizním aseptickém bezčasí…
 
+</section>
+
+<section>
+
 Chodívali mudrci kdysi do pouště, aby nerozptylováni vnějším světem došli poznání. Aby se vědomě oddělili od hmotných statků a vykonali cestu. Ty hmotné statky ze mě teď opadávají jako listí na podzim: nestěžuju si, abych se nerouhala, abych nespílala nebi a nebičovala zemi a nekvílela proč? Proč zrovna já? Naopak: nechávám odplout ty v potu tváře vydělané peníze, které jsem střádala řadu let; řetízky po babičce a zlaté kapesní hodinky po pradědovi – nechávám odplynout, co ze mě tenhle čas všechno serval; aby se mi ulevilo, samozřejmě, abych došla poznání…
+
+</section>
+
+<section>
 
 Moje dítě a drogy? Nikdy!
 
+</section>
+
+<section>
+
 To je přece nesmysl! drogám přece holdují děti zanedbané, opomíjené, hloupé; děti z neslušných rodin, děti z podezřelých, divných rodin – a mé dítě bylo vždycky zdárné a mé prádlo bylo vždycky zářivě bílé – tak dlouho – vůně jara – a moje maličká byla přece tak skvělá a sladká –
 
+</section>
+
+<section>
+
 bylo to jenom ze zvědavosti, to nic, to přejde: brala něco pro vybuzení a něco pro utlumení a něco jen ze zvědavosti a něco, aby se zamotala šiška a člověk vylít sám ze sebe. To nic, mami, neboj, mám to pod kontrolou… to dneska všichni, kdybys viděla – jiný jsou na tom hůř… já toho nechám, kdykoliv budu chtít, to jenom teď, jen trochu, jenom někdy, jenom tak –
+
+</section>
+
+<section>
 
 To víte – peníze z drog – to jsou veliké peníze, odpověděl detektiv, zapálil si cigaretu – kolikátou už? – a zadíval se z okna, kde se již odpolední slunce chýlilo k západu –
 
 ano, ale kde se vzaly ty obrovské peníze? co fičí napříč civilizací? ty peníze, větší než z obchodu s naftou? ty obrovské, nezdaněné, nekontrolovatelné peníze, ten čistý zisk s nulovými náklady, který hýbe světem? Doma. Ty peníze jsou z nás vysávány skrze děti. My to platíme, rodiče, co vyplácíme počítače ze zastaváren a průběžně přicházíme o všechno, co má nějakou cenu; a taky my, co platíme daně, z nichž je placena policie a soudy a církev a léčebny a všechny ty bezmocné složky, co se podílejí na té frašce, nazvané boj proti drogám…
 
+</section>
+
+<section>
+
 (Ministerstvo obecného blaha vypisuje konkurz na specialistu pro práci v terénu. Požadavky: schopnost v krátkém čase vyvolat paniku, rvačky a rasové nepokoje; dovednost práce s mládeží; zkušenosti v oblasti drog. Gramotnost není podmínkou.)
+
+</section>
+
+<section>
 
 Cennější předměty z bytu zmizely – spotřebiče, drobná zahraniční měna, stará bible a řetízky po babičce… larva leží jako mrtvá a bojuje s démony: obestupují ji za nocí i ve dne, něco chtějí, chtějí něco zpátky; larva křičí, třese se, potí a zvrací, má křeče: já to zvládnu, maminko, neboj se, všechno bude dobrý, maminko, nezlob se… drkotá zubama, zbědovaná, ubohá a cizí – vařím jí čaj s hroznovým cukrem a modlím se za ni u všehomíra: vydrž, miláčku, jsem s tebou, už jsem pevná, ničeho se neboj, nepiju, nefňukám, můžeš se opřít, já vydržím, všechno vydržím…
 
+</section>
+
+<section>
+
 (Strašně to chceš – musíš to mít! – ta chuť je silnější než ty! Musíš to mít! Že už to drží v ruce někdo jinej? – nevadí – vem si to! Když musíš, tak musíš. Bosorka! Naše podmanivá oplatka! Chuť, která tě ovládne…!)
+
+</section>
+
+<section>
 
 Pani, vy schvalujete drogy? Já je teda vůbec neschvaluju, já vám řeknu, já když to vidim, ty vychrtlý feťáky, já bych je všechny pozavírala!
 
+</section>
+
+<section>
+
 Moderátor hovoří s vyděračem o jeho řemesle: jak si vybírá lidi ne moc bohaté, aby ho nesetřásli, ne moc chudé, aby z nich něco káplo, raději slušné, aby se ho báli; jak se s nimi nejdřív skamarádí, aby mu věřili, pak se objeví o týden dřív, aby je vyděsil, jak je vyždíme a pak na čas zmizí, aby měli čas se nacucat, než je zas zmáčkne, než se zas objeví, aby předstíral, že za nic nemůže, že je sám vydírán – a tak dál a tak dál – úspěšný pořad – maximální sledovanost! Příště bude hovořit vrah.
+
+</section>
+
+<section>
 
 Larvě je trochu líp, už se maličko hýbe, pomalu nabírá sil, chce dohnat, co zmeškala, vypadá už míň šedivá a už se tak netřese, ale pořád je malátná, nesvá a slabá…
 
@@ -407,45 +661,121 @@ Mami, kdyby někdo volal…
 
 Divní jsou přátelé larvy: divní. Rozevláté pohyby, na tváři divný smích, podivný v srdci kal… Překotné přitakání úplně všemu; je to jedno: slova jsou jenom hluk, jen křoví a chuchvalce vaty; kouř bez tvaru a bez podstaty; jsou mistři úhybných manévrů, taktik a lží, kdykoli připraveni se ohnout a připodobnit a vyklouznout jako had; bytostná neúčast – všechno je za sklem – já je někdo jiný… Není cesty, jak navázat spojení… Nijak se nedovoláš…
 
+</section>
+
+<section>
+
 (Přetejká vana? Kašli na to! Máma tě volá? To je fuk, něco jí nakecej a užij si to! Dej si dávku! Dej si naši Bryndu!)
+
+</section>
+
+<section>
 
 Pozitivně. Hlavně pozitivně. Musím všechno vidět z té lepší stránky. Ukradli mi tašku? Báječná možnost koupit si novou!
 
 Stárnu? Úžasná možnost dožít se vysokého věku… Larva zápasí o život…? … co s tím?
 
+</section>
+
+<section>
+
 Dobro a zlo? Ano, dvě mocnosti, ano, bojovat se zlem: ale je světlo opakem tmy? Noc opakem dne? Je slunce opakem měsíce? Mrazí měsíc stejně silně, jako slunce plane? Ano, muž a žena, ano, dvě nohy, dvě ruce – ale jedna hlava, jedno srdce, jedna řiť…
+
+</section>
+
+<section>
 
 Soudce propustil dva drogové magnáty, když mu slíbili, že už to víckrát neudělají. Skvělý příklad humanismu!
 
+</section>
+
+<section>
+
 Poslanci odhlasovali zákon, který je proti Ústavě – budeme muset změnit Ústavu…
+
+</section>
+
+<section>
 
 Po pádu Rudého prasete byl znovu oživen prastarý kult dříve zakázaného Bílého prasete. Bílé prase je čistota sama: velmi zduchovnělé. Jeho bělost však nejlépe vyzní vedle špíny; čím větší špína kolem, tím větší bělost Bílého prasete. Jeho vyznavači proto pilně vyhledávají nečisté, upozorňují na ně, označují je, případně je sami produkují, neboť jen uprostřed nečistých bělost Bílých prasat náležitě září.
 
+</section>
+
+<section>
+
 A teď si, milé děti, povíme něco o narkomanech; jeden je vyobrazen zde na tomto obrázku: špinavý, ošklivý, zlý, špatně se učí, je ze špatné rodiny a smrdí. A my jím pohrdáme, protože jsme slušní lidé; my jsme úplně jiní: my víme, co je správné a co ne, chodíme do kostela a myjem si uši. Nebýt narkomanů, mohlo být v naší společnosti stálé štěstí, ale oni nám to kazí; to oni nutí dealery, aby jim sháněli drogy; to kvůli nim ubozí dealeři obchodují s drogami; kdyby narkomani drogy nechtěli, nikdo by je neprodával. A my těm zlým narkomanům ještě platíme léčení, protože jsme slušní lidé a nemůžeme se na to koukat. Naštěstí narkoman brzo umře, dobře mu tak.
+
+</section>
+
+<section>
 
 (Chceš tuhle babu? Tenhle bourák? Tohle tělo? Zaplať! Čím? To je tvůj problém…!)
 
+</section>
+
+<section>
+
 Larva volala v noci z policejní stanice; má zajíkavý hlas a zhmožděný obličej: zmlátili ji. Pak jí podali dávku, ona řekla ne a dostala další ránu; vstala a řekla, dejte mi pokoj – a dostala další – měla jsem obličej na chodníku a viděla jsem ty jeho okovaný boty, bála jsem se, že mě tou botou kopne do obličeje…
+
+</section>
+
+<section>
 
 Byla odhalena, zatčena a odsouzena šestnáctiletá pěstitelka omamné rostliny: rostlina na předzahrádce její babičky v Počernicích byla okamžitě zlikvidována zásahem protidrogového komanda. Pěstitelka i její babička, údajně si touto rostlinou léčící sklerózu, byly na místě zneškodněny. Boj proti droze pokračuje.
 
+</section>
+
+<section>
+
 Výčepní zmlátil abstinenta, aby zas začal pít; trafikant donutil nekuřáka, aby si znovu bafnul; soráč, občane: každej hájíme svý…
+
+</section>
+
+<section>
 
 Pomůžu ti, ale nebudeš platit dealerovi, budeš platit mně; no co koukáte, pani – když měla na fet, může si zaplatit doktora!
 
+</section>
+
+<section>
+
 … jenže to nebyla ona, kdo to všechno platil, to jsem byla já! já platila dluhy, já šla vyplatit PC do zastavárny s celonočním provozem, to já přišla o starou bibli, magneťák, foťák a řetízky po babičce, já a všichni ti další okradení, co jen platí a mlčí, ždímaní po kapičkách; to z nás tečou ty nekontrolované miliardy; z nás bezbranných, unavených, zaskočených a vysílených, co jsme drceni tou obrovitou zátěží, studem a bezmocným strachem, co jsme nuceni mlčky se podřídit, ochromeni silou zvanou láska…
+
+</section>
+
+<section>
 
 (Když musíš, tak musíš! Neodoláš! Nemůžeš přestat! Chceš ještě a ještě! Naše brambůrky!)
 
+</section>
+
+<section>
+
 … Jsem pořád stejná, jen ty věci kolem mne nějak ztrácejí na přitažlivosti a lesku. Život už není, co býval; už vidím ty nitky, co vedou krále, už vím, od čeho odvádí pozornost kašpárek…
 
+</section>
+
+<section>
+
 Vrchní policejní velitel v TV besedě pravil, že obchod s drogami je věcí nabídky a poptávky. Stejně tak obchod s bílým masem – pardon, s mletým masem – pardon: se ženami.
+
+</section>
+
+<section>
 
 Ctitelé Rudého prasete se takticky stáhli; Ctitelé Zlatého prasete jsou v čele a podřizují svému kultu vše včetně médií.
 
 Ministr školství ve jménu Zlatého prasete navrhl zrušit školy: přinese to úžasnou úlevu Zlatému praseti, a to nejen finanční; potvrdila se i předchozí zkušenost Rudého prasete, že totiž nevzdělané palice se lépe ovládají. Bílé prase to nekomentuje, ale zakládá čile své školy, kde vychovává své příští bojovníky, kteří jednou označí a zlikvidují vše nečisté a posílí jeho moc…
 
+</section>
+
+<section>
+
 Světová konference o toleranci dopadla nad očekávání dobře: Bílé prase slavnostně připustilo, že i někdo jiný může být čistý, ovšem jedině pod jeho záštitou. Zlaté prase uznalo Bílé Bohem na nebi a výměnou se stává Bohem na zemi. Rudé prase přislíbilo spolupráci oběma s tím, že do demonstrací, rvaček, bouří a nepokojů mu nebude nikdo kecat. Načež se při slavnostech spojilo s Bílým, takže Zlatému zas nezbývalo, než všechno zaplatit. Nakonec si všichni společně zazpívali: Bílá prasata s Rudými a oběti se svými vrahy…
+
+</section>
+
+<section>
 
 Tak co, kluci, copak tu děláte celej den?
 
@@ -457,35 +787,95 @@ To jsou chlapci ze skupiny Hare Kršna, orientované na východní filosofii a 
 
 A kterej ty seš? Standa? Tak co, Stando, přepral by si kršňáka? Já vim, že bys mu nabančil, co? Reportér spiklenecky mrká a chlapci z experimentální školy se rozcházejí; škola byla zrušena.
 
+</section>
+
+<section>
+
 (Musíš nakoupit, uvařit, uklidit, vyprat, vyžehlit, a těch tisíc maličkostí, co stejně nikdo nedocení… máš ten nákup moc těžkej? Tak si ho dej do druhý ruky!)
+
+</section>
+
+<section>
 
 Kupuj! Nakupuj! Víc! Proto to děláme tak mizerný, aby se to brzo rozpadlo a abys to koupila nový!
 
 … Slyšela jsem, že jsou země, kde se staré tepané mříže ošetřují a lakují, že se ty tepané okvětní lístky nenechávají zrezivět a rozpadnout… podivné…
 
+</section>
+
+<section>
+
 A někdy to přijde, ten strach, že je něco špatně, že nejsem na správném místě, že bych právě teď měla být úplně jinde… odtud možná ten neklid, který mi velí uhnout: ano, ale až potom. Přijímám všechno, se vším souhlasím, ale až potom. Kdy? Nevím – teď ne… teď unikám…
+
+</section>
+
+<section>
 
 Kolik bájí a mýtů se snaží vysvětlit tu ránu pod pás, ten úskok Nejvyššího, že toužíme s někým utvořit dvojici, že takhle jsem neúplná a je mi zima… prožívám smutek. Já vím, že to není kvalita světa – já vím…
 
+</section>
+
+<section>
+
 A nyní do naší show přichází hlavní dealer! Přivítejme ho potleskem! Má k distribuci propracovanou síť konzumentů, kteří si touto brigádou vydělávají na svou dávku; to oni udržují a rozšiřují klien­telu, kontaktují své kamarády a spolužáky, čímž udržují obchod v běhu! Tito mladí lidé jsou ke své práci motivováni a také mají maximální výsledky s minimálními náklady: poděkujme jim potleskem! A nyní přichází obkladač, který je nedílnou součástí obchodu; to je ten, co vám pak zmlátí dítě – ten se potlouká neviděn kolem vyděrače, když jedná s obětí, a má za úkol ji udržovat ve strachu, eventuelně jí pěstmi domluvit, kdyby zbloudila a nechtěla už brát… skvělá organizace práce! Zaslouží si potlesk!
+
+</section>
+
+<section>
 
 Z finančního příspěvku dvaceti pěti miliard na boj proti drogám bylo zřízeno protidrogové ministerstvo a zakoupeny paláce, v nichž bude úřad přebývat, jakož i budovy, kde budou žít a pracovat jeho kuchaři, sluhové, tajemníci, komorníci a pážata, jakož i promítači, maséři, lyžařští instruktoři, správci bazénů, fitcenter a hospodářských budov, v nichž budou dlít kuchaři kuchařů, sluhové sluhů, tajemníci tajemníků a pážata pážat. (Jako první kritizoval přemno­žení pážat národní básník Josef K; když se nepodařilo jej koupit ani zabít, byl později zvolen mluvčím hnutí Antipage a po státním půlobratu jmenován Nejvyšším Velitelem všech pážat; přidělen mu největší počet pážat v dějinách země, a ta jej dodnes střeží, aby byl pod kontrolou a nezlobil.) Vedením ministerstva, které se mezitím prohlásilo republikou a navázalo plodnou mezinárodní spolupráci se vším, co s drogami souvisí, byl pověřen ze zahraničí přišedší synovec bývalého ministra, Pierre de Bill, majitel firmy _I. M. Potent_, která neprodleně najala firmu Vool, která nemeškala a poskytla všechny podklady firmě _PAR & Zit_, která zaúkolovala svého zaměstnance, spolumajitele firmy _VOC, a. s._, jehož šestiletý syn chodí do školy se synem místního výčepního; ten zadal dřímajícímu intelektuálovi vypracování slohové práce na téma Drogy za panáka fernetu. Za necelý měsíc byla ministerstvu doručena podrobná studie, která na dvou stranách mastného linkovaného papíru dochází k závěru, že drogy jsou zdraví škodlivé. Současně s tím _Společnost Jediné Církve WPS (White Pig Society)_ došla k témuž závěru a vydala rozkaz, že drogy jsou fuj a jimi zasaženými jedinci je třeba pohrdat, od nich se distancovat a nepodat jim lžíci vody. Dokument podepsalo osmdesát šest stařenek. Plodná spolupráce státu s církví se bude nadále rozvíjet.
 
+</section>
+
+<section>
+
 Prší. A pak že se nic neděje…
+
+</section>
+
+<section>
 
 Ach ti muži! Tak svůdní a tak přitažliví! Nemám na mysli ty odpudivé vzteklé dědky, co trestají ženy svého věku za svou ovadlost; – myslím ty mladé muže, pevné a plné šťáv; jak jsou krásní! chodím po ulicích, dívám se na jejich pevná těla, v dopravních prostředcích se zavřenýma očima vnímám jejich pot… Muži: bez nich to nejde – a s nimi taky ne; jsou jako droga, které nerozumím a již mi nezbývá než opěvat… ale muži tu nejsou k tomu, abychom jim rozuměly – jsou na světě proto, abychom je milovaly… proto je muž nádoba hříchu: myslím-li na hřích, myslím na muže. Nicméně muž je muž, ale dobrý cigáro, to je pokouřeníčko! V každém případě je muž nejlepší přítel člověka – hned za delfínem…
 
+</section>
+
+<section>
+
 A zde jsou, ta krásná mužská těla, odpočívající v trávě na břehu jezera: svačina v trávě: ospalé spočinutí ve slunném odpoledni, muži vláční a odevzdaní, čekající na ženu, která se o ně postará; žena v klasickém kostýmu a kolem ní polehává pět nahých mužů; košíček v trávě a v něm víno a bílý chléb; V šatně muži před zrcadlem napínají svaly, zkoušejí tvrdý výraz v očích a pevnou čelist, anebo hravý úsměv a romantický vlas; zkoušejí trička, zda jdou dobře k pleti, zda správně vyrýsují sval… Miláčkové – zase mě dostanou…
+
+</section>
+
+<section>
 
 Ženské tváře; gejzíry krve, poslušně zkrocené skořápkou obličeje. Momentky z rodinného alba, nehybné touž nutností: nenechat tu erupci vyplynout na povrch. Neprozradit se. Nenechat vyšlehnout všechnu tu vášeň a lásku a sílu, které se muž tak bojí… nevyplašit ho: nevinný úsměv školačky; to je ono. Tak to má být.
 
+</section>
+
+<section>
+
 Zlatá prasata mají sjezd. Bílá a Rudá jim k tomu dělají reklamu skrze efektní pouliční bouře: to zaměstná pozornost a odvede ji od merita věci: co bude, až Zlatá prasata všechno sežerou…
+
+</section>
+
+<section>
 
 Ten druhdy tolik milovaný svět; cvičiště neklidných duší; hřiště malomocných… a pořád dokola – ať už to jde všechno někam, chtělo by se říct, ale bojím se, že v tu chvíli odejde můj tělesný kabát, abych putovala někam mimo hmotu, jako každý prvňák, co postupuje do vyššího ročníku…
 
+</section>
+
+<section>
+
 Nový trend! Easy Art! Netřeba nic nového dělat, vše je hotovo! Stačí hotový kus jen obalit něčím lesklým, trochu to nasvítit, pustit barevnou páru a automatickýho bubeníka… Nejvyšší a nejnižší tón škrtnem v rámci demokracie: i neschopní mají právo na slávu schopných! Zjednodušíme za vás! Přibarvíme za vás! Lidi se chtěj bavit! Rozptýlit! Rozmělnit! Zkomolit skutečnost, rozostřit pozornost, ohlušit smysly – koncentrace? Naopak: – rozptyl! Gejzír! Pestrá směsice čehokoliv! Klip! Kaleidoskop! Pestrý koktejl! Zábava! Užij si to! Easy Art! Pod hotové se podepsat! Easy Art! Snadno a rychle! Okamžitý efekt! Rychlý prachy! Dáme ti milion! Hned! Tobě, jednomu z těch dvaceti milionů ostatních, co se na tebe složej… Erupce momentek, až oči přecházejí – a přecházejí – a nikam nedojdou, a mezitím plyne čas…
 
+</section>
+
+<section>
+
 Tehdy všechno mělo smysl – tehdy pod tlakem, když se ochablí strejci snažili kralovat, a bylo tak snadné se jim smát za zády; za výklady byla móda, která se nedala nosit, a na pultech noviny, které se nedaly číst, a jeden druh chleba, kterej se nedal žrát, a v televizi filmy, na který se nedalo koukat, a na ulicích hesla a rudý obrazy těch prasečích rypáků, jimiž bylo tak snadno pohrdat, zatímco balkony opadávaly… a my četli v soukromí zakázané knihy, v nichž každé slovo mělo větší smysl, než autor mohl tušit, pekly jsme chleba a válely nudle a donekonečna přešívaly několikrát přešité šaty, zatímco muži opravovali polorozpadlá auta, pračky a žehličky po babičkách, a bylo to velmi důležité, že jsme to dokázali, byl to akt samostatnosti; a ladili jsme stanice svobodných zemí a šili kalhoty honáků krav, jako ze svobodných zemí, a předháněli jsme se, kterej barák v tomhle lágru je míň zlomenej, v tom světě kontrolované bídy, univerzálního amatérismu a horoucí naděje; byli jsme silní hladem po poznání, touhou po svobodě a nesl nás vzdor… Jak to bylo přehledné – jak melodramatické, jak naivní! … zatímco za ostnatými dráty lidi žili jakoby nic…
+
+</section>
+
+<section>
 
 V restauraci Don Giovanni mi přinesli shnilou rybu. V nóbl restauraci v sídelním městě, na krásném místě na břehu řeky, s chromovaným a mosazným vybavením uvnitř, v restauraci, jejíž obsluha vůbec netajila, že tohle je loupež, v téhle pasti na cizince mi přinesli shnilou rybu. Říkám, ta ryba je shnilá, pane vrchní, chci čerstvou. Vrchní se na mě podíval s nejvyšším opovržením a za moment mi přinesl touž rybu, okrájenou. Je čerstvá, pravil a praštil talířem o stůl.
 
@@ -493,9 +883,17 @@ V restauraci Don Giovanni mi přinesli shnilou rybu. V nóbl restauraci v sí
 
 ne, neřekla jsem to. Snědla jsem tu rybu a umřela jsem. To Zlaté prase bude vycpáno pro Náprstkovo muzeum.
 
+</section>
+
+<section>
+
 Chodím pětkrát týdně na panské, aby bylo na brambory a tak.
 
 A chodím za placeným odborníkem. Všechno mu to říkám a on pozorně naslouchá, a když se zeptám, co s tím vším, co můžu dělat, jak to můžu změnit, pokývá hlavou a řekne: ano, co? Nebo: inu, inu. Anebo: kdoví, já neříkám ani tak, ani tak, kdopak se ve mně vyzná… Tak mu zaplatím a táhnu zas po svých. Kdyby mi řekl, že se dá něco změnit, nebyl by odborník. Kdyby mi řekl, že se nedá změnit nic, nebyl by placený.
+
+</section>
+
+<section>
 
 _Už jsi připravena._
 
@@ -541,6 +939,10 @@ A dvanáctá přichází ke mně a říká: vidím to špatně, děvče; tvoje
 
 Vtom jde tiše kolem staré děvčátko s mašlí v šedivých vlasech, v růžových šatečkách s volánky na ochablém těle, střevíčky s bezmocným pásečkem přes kostlivý nárt, povadlá ramena stydlivě vzhůru, vrásčitou pusinku obtaženou rudě a nad vyhaslýma očima dva veliké oblouky černou tužkou místo obočí. Má společnice říká: téhle dívence bylo sedmdesát, ale ještě o tom neví, ještě jí to nikdo neřekl…
 
+</section>
+
+<section>
+
 Jdeme dál Údolím nevěst: z úbočí hor se sem valí mladé ženy, svěží a dychtivé, spěchají dolů a procházejí kolem kamenných pastí, zvědavě okukují fangličky, pentličky a barevné peří, balónky, třpytky a voňavá mámidla; u klecí a pastí postávají muži a vábí ženy k sobě; volají na ně, zpívají lichotky, ukazují svaly, zápasí spolu, natřásají se, halekají, chrastí zlaťáky, milostně vrkají – a jiní zas dělají zraněné:
 
 když nemohou zaujmout tím, jak jsou mocní, snaží se upoutat ženy svou bezmocí, řekla mi společnice, a mají kupodivu stejný úspěch v lovu jako chytráci a siláci – ne-li větší. A opravdu: ženy k těm nalomeným spěchají a pomáhají jim vstát, chodit, jíst, oblékat se, močit, žít…
@@ -560,6 +962,10 @@ to ženy nutí do úsměvu a zbavuje ostražitosti, řekla má společnice, že
 A jiný zas mžiká řasami a kroutí očima a usmívá se a blýská zuby a tváří se sladce a dětsky a hravě, a ženy-starší sestry, ženy-pečovatelky, ženy-služebnice a nejlepší kamarádky se slétají v houfech a usedají kolem něj, aby se o něj postaraly, aby si s ním hrály a hřály ho; že nevíte, kolik je mi let? zeptal se nás čtveračivě, sto osm! – a vypadám? na čtyřicet! – ne, na pětatřicet! řekl a rozpřáhl náruč, zaklonil bezbranně hlavinku, zeširoka se usmál, až mu zuby zazářily, a byl šťasten…
 
 Houfce dívek valí se z kopců dolů, do toho prokletého údolí; a ty, které nechtějí, které snad váhají a hledí v rozpacích tím směrem plny pochyb a nezodpovězených otázek, proč že by tohle měla být jejich cesta, jediná a pravá, když nejsou pentlemi nijak zlákány, ty tam nažene obecní pohůnek nebo rodina…
+
+</section>
+
+<section>
 
 Je to celé podivné – tolik zbytečných úskoků, manévrů, taktik a lží – samá strategie a lest – a proč? A má společnice odpověděla: celý tenhle svět přece stojí na lži;
 
@@ -725,11 +1131,23 @@ Chlapec, vybraný k oběti jako posel bohů, mlčky přebírá svitky, kamínky
 
 A kousek dál proběhla žena volajíc: Míňo, tak Míňo, kdepak jsi? Kam ses mi schoval? Jen počkej, ty lumpíku, já si tě najdu! No tak, vylez a nezlob! Nebuď ošklivý chlapeček! Maminka tě má ráda! A tatínek tě má taky rád! Tak vylez už přece a ničeho se neboj! Podívej, jakej hezkej domeček ti tatínek nechal postavit – ten je ale krásnej! – tak vylez a nezlob! Tak, Minotaure!
 
+</section>
+
+<section>
+
 Bylo tak strašné pobývat ve světě rodičů a dětí, že jsem zatoužila zpátky do boudy – ale cesta zpět zarostla – brány se uzavřely, mosty sklopily a povětří za mnou tak zhoustlo, že nebylo cesty zpět; zas bylo jasné, že je jen jeden směr…
+
+</section>
+
+<section>
 
 Šla jsem pryč z toho místa kolem dvou paní, z nichž jedna řekla: já vám povim, proč je dneska tolik dětskejch sebevražd, pani: protože voni jim rodiče všechno dovolej, všechno jim daj, parchantům, ale to chce opratě a řezat a řezat!
 
 A druhá řekla: a co se toho do nich nastrká, do smradů, těch prachů! A voni si pak eště píšou do deníčků, jak nás nenáviděj…!
+
+</section>
+
+<section>
 
 Proč jim něco neřekneš, aby se netrápili? Proč to všechno musí být tak strašné? zeptala jsem se své společnice.
 
@@ -737,7 +1155,15 @@ Všude je to napsáno, řekla mi, už to nelze říct jasněji: řeka plyne v b
 
 Zírala jsem na ni a současnost všech nekonečností mi vířila hlavou: kvas ostatků starého světa chystal spanilou jízdu burčáku poznání – ale bylo to velmi bolestné… a ona viděla, jak trpím a že k velkému třesku v mé hlavě ne a ne dojít – i pravila laskavě: povím ti tajemství – žádní rodiče neexistují. Rozumíš? Rodiče neexistují. A zmizela.
 
+</section>
+
+<section>
+
 Rodiče neexistují: jsou jenom děti. Kterým se rodí zas děti. Všude jsou jen a jen děti – některé se narodily už dávno, jiné později a jiné před chvílí… a tak dál a pořád dokola – a mladé nabírá sílu od starého a silné se odděluje od slabého jemně a s plným porozuměním, jako se od poupěte oddělují zelené lístky v pravý čas, aby nebránily květu, jako kuře opouští skořápku v pravý čas, aby mohlo dýchat; šílená skořápka, která odmítá povolit; šílené kuře, které čeká, že se otevře sama; šílený blb, kdo staví kuře a skořápku proti sobě jako dva soupeře…
+
+</section>
+
+<section>
 
 _Už přišel čas._
 
@@ -764,3 +1190,5 @@ To tebe jsem se hrozila po celý život? To tvůj odsudek mne prostoupil chladem
 Stařík se přiblble usmívá a něco drmolí pořád dokola: nevím, co myslíš, nevím, nerozumím, nechápu, o čem to mluvíš, opravdu nevím, rád bych ti pomohl, ale nevím jak, ono se říká tak a tak, ale zase to může být docela jinak, ty říkáš tohle, já zase ono, opravdu nevím, co chceš –
 
 a pak se mi schoulil k rameni, opřel o mě svou hlavu a řekl, pohlaď mě – a tak jsem ho tedy pohladila – musím mu přece dát, co je mi dlužen, je to tak prosté – a on zamžoural, usmál se, vzdychl a pak se pod mým dotekem rozpadl v jemný prach jako kytička na rakvi Tutanchamona…
+
+</section>
