@@ -3,7 +3,13 @@ title: "V\_boudě"
 contentType: prose
 ---
 
+<section>
+
 Co všechno jsou lidi schopni snášet, ochromeni strachem ze samoty…
+
+</section>
+
+<section>
 
 Tedy, jak jsme se seznámili: ano. – šla jsem, totiž, řekli mi – ne: myslela jsem – prostě bylo to někde napsáno – nevím – to je fuk – že tam­tudy, to že je moje cesta – že tudy a pak dál, to že je ten směr – že tamtudy a pak dál, potom, ne teď: teď je to jenom jako, nic vážnýho, jen příprava, pracovat na sobě a tak – ale štěstí je to, co teprv přijde, když si to zasloužím a budu se snažit, teprv to, co potom přijde, to že je ten život, to štěstí, jak ho známe a jak ho chcem –
 
@@ -18,6 +24,10 @@ a on mě objímá a směje se na mě – a já se směju na něj, po zeleném
 Prostě pohoda, láska a náruč – to všechno že bude, ale až potom. Teď si mám hledět svýho a mazat si na hubu tenhle krém, všechno ostatní pak přijde samo –
 
 Tak jsem teda šla –
+
+</section>
+
+<section>
 
 a byla tam taková bouda a uvnitř síť a v ní byl on, špinavý a zpocený, zmítal se v síti a v řetězech, vztahoval ke mně ruce a sténal a prosil a volal mě jménem a byl tak opuštěný a sám –
 
@@ -57,51 +67,119 @@ Mluvila jsem na něj, prosila, brečela, zoufale, úlisně, zle – a on mlče
 
 Když jsem pak ztichla, poodešel někam dozadu do tmy, věnovat se svým hračkám. A já tam ležela, svázaná pod dekou – bez hlesu, bez pohybu.
 
+</section>
+
+<section>
+
 Jeho hračky:
 
 Pastelky, barvičky, panenky, panáčci, hadříčky, břitvičky, skalpílky, nožíky, elektrická křesílka, vojáčci, tančíky, letadýlka, granátky, raketky, odpalovací rampičky, chemické zbraničky, atomové bombičky, motorizovaná pěchůtka, ženijní jednůtky, generální štábík… vše pečlivě srovnáno a přikryto hadrem…
+
+</section>
+
+<section>
 
 Čmárá něco na papír, aniž ke mně vzhlédne. Čmárá to urputně, čmárá a čmárá a zběsile přitom funí, zrychluje se mu dech, jak tlačí na pastelky, na ty svoje blbý pastelky, drtí jejich pečlivě ořezané hroty, sakra, chlape, ty máš ale sílu, zbylými třískami ryje do papíru šrámy, urputně a zlostně láme ty svoje pitomé pastelky, pak je zahazuje a bere nové, kňučí, slintá, skřípe zubama a funí, drtí, ničí ten papír, toho nepřítele, nad kterým vítězí, až z něj zbyly jen cáry, které pak cupuje a doráží pěstmi a mete na zem. Zpocený pak vysíleně odfukuje. Pak se zvedá a jde mě vší silou nakopnout.
 
 Ležím tam, svázaná pod dekou, s bolestí po kopanci a lapám po dechu a mé divné já mi říká: vidíš, teď je spokojený; tak je to správné, to díky tobě se mu ulevilo, to tys mu pomohla, a on tě teď za to učiní šťastnou, jak je to v pohádkách…
 
+</section>
+
+<section>
+
 Přinesl odněkud něco na talíři a začal mě krmit. S věcným soustředěním mi cpe žlutozelený rosol hliníkovou lžící hluboko do krku. Začala jsem se dusit. Jazyk se mi stočil v hrtanu, zacpalo mi to i nos, rozkašlala jsem se. Nespokojeně zavrtěl hlavou a ukazovákem se mi tu kaši snažil zas vydloubat ven. Neostříhaným nehtem mě přitom škrábl do patra. Pak se pokusil mi tu hmotu nacpat do hlavy ušima. Uhýbala jsem a vydávala dávivé zvuky – rozmrzele mi plácl lžíci té hmoty do tváře a odešel do rohu, věnovat se svým hračkám.
+
+</section>
+
+<section>
 
 Když se nevěnuje svým hračkám, obchází mě ve velkých kruzích. S odstupem, abych se ho nemohla dotknout; soustředěně si mě prohlíží. Moje špína mu nevadí. Má špínu rád. Je také špinavý a smrdí.
 
+</section>
+
+<section>
+
 Nemluví na mě. Nemluví se mnou. Ani ve chvílích pohody, když na mé tělo soustředěně čmárá svými pastelkami – když po mně jezdí svými tančíky a vede své bitvičky – ani když mě očichává – ani tehdy neodpovídá na moje otázky: mlčí. Když promluvím, strne, jako by zkameněl, s pohledem stranou čeká, až zmlknu, a pak plivne na kresbu a rozzlobeně mi ji loktem dře z kůže dolů. Pak prostě pokračuje, v čem začal.
+
+</section>
+
+<section>
 
 Probudilo mě šmátrání pod dekou: přiklekl a pokouší se mě oplodnit. S funěním se snaží vecpat do mě své ochablé plodidlo, heká, kňučí a vzteká se – pak do mě kopl a odešel.
 
+</section>
+
+<section>
+
 Mlčí – mlčky mlčí – nehybně, bez výrazu. Někdy si pro sebe něco drmolí, ale ke mně mlčí jako balvan. Ne, balvan je určitý – podává o sobě zprávu: k balvanu se lze přimknout, hřeje nebo studí – balvan neucukne před dotekem ruky, neuhne očima, nenakopne mě znenadání a neběží se pak schovat za špinavý hadr někam dozadu…
+
+</section>
+
+<section>
 
 Cítím se vinna za jeho ubohost. Za jeho strach, za jeho ochablé, páchnoucí, bledé tělo. Za jeho noční pláče a kvílení někde vzadu, za jeho mastné vlasy, plné lupů – Bože – kdyby mě rozvázal, umyla bych ho…
 
 Usmála jsem se. On do mě kopl a nahlas se rozchechtal. Ten ko­panec nebyl nijak zlý. Cítí se líp. Vzadu za kobercem jsou schody dolů. Je tam asi sklep. Nebo to není sklep: buď tam těžce pracuje, nebo se schází se svými bohy. Každopádně se odtamtud vracívá velmi unaven.
 
+</section>
+
+<section>
+
 To období jeho snah rozmnožit se bylo těžké. Zkoušel to často a marně – a těmi neohrabanými pokusy ve mně absurdně probudil touhu po skutečném spojení – a na to se nedá zvyknout. Slyšela jsem se s hrůzou, jak vzdychám, jak mu jdu naproti, jak se mu snažím pomáhat, jak říkám, že kdybych nebyla svázaná, kdybych měla víc prostoru a volné ruce, že bych mu třeba – že bychom třeba spolu –
 
 Nevnímá mě. Je vždy plně soustředěn jen na své marné úsilí – pak rozmrzele vstane, kopne mě – a pak bývá slyšet, jak tam vzadu zuřivě buší hlavou do zdi.
+
+</section>
+
+<section>
 
 Občas kolem mě rozestaví svíčky, zapálí je a pak s hlavou skloněnou nehnutě stojí opodál a čeká, až poslední svíce dohoří.
 
 Stojí tak dlouho a mlčky. Všechno dělá mlčky.
 
+</section>
+
+<section>
+
 I zářezy do mých rukou a nohou dělá věcně, bez vášně, beze zloby a beze slov. Ryje do mě nožem, soustředěně a pomalu, ne hluboko – jen aby viděl krev – a pak pozorně sleduje, jak se ty červené čúrky klikatí a stékají po kůži dolů.
 
 Nejdřív jsem křičela, prosila, ať mě nechá nebo ať mě radši zabije – mlčky počkal, až zmlknu – a pak řízl znovu – a tiše, tázavě zvedl hlavu, jako by čekal, jestli zakřičím zas. Často takhle pracoval velmi pomalu – a velmi dlouho pak sledoval prýštící krev. Někdy ji prstem ochutnával. Pak mi starostlivě otíral rány, aby se kůže zacelila. Napadlo mě, že aspoň brzo umřu na nějakou infekci – ale ošetřuje mě velmi pečlivě. Na otírání ran má kufříček s desinfekcí. Pálí to. Aspoň nějaký kontakt.
+
+</section>
+
+<section>
 
 Teď se víc věnuje svým hračkám. Čmárá na papír nějaké černé žvance a občas se zadívá mým směrem, jako bych jim byla modelem. Černočerným chuchvalcům – černočervenočerným zuřivým chuchvalcům – černočervenožlutočerným zběsilým chuchvalcům, které v hrůze samy nad sebou opouštějí papír –
 
 který on zuřivě muchlá, zuřivě trhá, zuřivě kouše a zuřivě jí.
 
+</section>
+
+<section>
+
 Snažím se na něj mluvit: jak se jmenuješ, ptám se ho, kolik je ti let, kde máš rodiče? Byl bys docela hezkej, kdyby ses třeba umyl, řekla jsem mu jednou, ale hodil na mě deku. Začala jsem kašlat a dusit se. Vstal, odhrnul mi deku z obličeje a chvíli mě sledoval. Pak si na mě sedl, abych věděla, že jsem jeho. Že mu patřím. Abych věděla, že mě tu drží svázanou jen proto, že o mě stojí a chce mě. Že mě má rád…
+
+</section>
+
+<section>
 
 Každý den je trochu jiný, paní doktorko. Podle toho, jak jsou chladná, vlhká anebo rozehřátá prkna, uhodnu dost přesně, jaké je venku počasí. Ven vidět není. Takže – logicky – není vidět ani sem. Ani člověk ani slunce sem nevidí. Ostatně, na počátku mi bylo řečeno, že tahle cesta je má – těžko čekat, že by tudy šel někdo jiný –
 
+</section>
+
+<section>
+
 Zvykla jsem si. Říkám si, no co, jsou na tom jiný hůř, hlavně že nejsem sama, hlavně že někoho mám. Vždyť mě má svým způsobem rád a drží mě tu jenom proto, že mě chce. Tak, abych mu neutekla: záleží mu na mně. Má mě rád. Určitě mě má rád, vždyť přece jí moje výkaly…
 
+</section>
+
+<section>
+
 Mohla jste odejít.
+
+</section>
+
+<section>
 
 Cože?
 
@@ -113,15 +191,35 @@ Mohla jste odejít! Utéct! To jste přece chtěla!
 
 Nemohla! A i kdyby – on mě potřebuje, tak proč bych to dělala? Co by si beze mě počal: chce mě, sám si mě chytil. Někdy za noci se připlíží, přiléhá ke mně a hřeje mě do zad. Je mi milý ten živý dotyk – musím ale dělat, že spím; jakmile zjistí, že vnímám, zmizí někde v rohu a okázale něčím hlasitě rachotí, kleje s pastelkou v ruce anebo si nahlas hvízdá, aby mi bylo jasno, že mě nepotřebuje, že mě nevnímá, že o mě nestojí… Den co den mi to dává pečlivě najevo: den co den. Pečlivě. Závisí na tom. Komu by jinak dokazoval svůj nezájem, nebýt mě? Na kom by si užíval svou převahu, svou sílu, nebýt mě?
 
+</section>
+
+<section>
+
 Říkala jste sny, paní doktorko: tak jednou se mi zdálo, že slyším nějaký hluk – povídám si, v tom snu – co je to za hluk? a ono to praštělo bednění – rozpadlo se – a z toho mýho blba, pani doktorko, z toho nešťastníka zabedněnýho se najednou vyklubal nádherný motýl, zakroužil kolem mě, staré a znavené nekonečným snažením a čekáním a trápením – on, náhle mladý a silný a hotov začít nový život – zakroužil kolem, štěstí z něj sršelo, koukni, jak jsem najednou skvělý, teprv teď vidím, jak jsem byl šeredný a hloupý, ach, já jsem tak šťasten! A byl pryč… probudila jsem se zpocená – a vděčná, že to byl jen sen…
+
+</section>
+
+<section>
 
 Ach bože, já vím, že jsem spoutaná, ale ty nespoutané jsou tak strašlivě nejisté! Rozhlížejí se stále, zmatené, jestli to na nich není vidět, že nejsou spoutané, že nemají pána! Jak jsou agresivní a neklidné – a co teprv ty, které pána měly, a on je zapudil, jak je to na nich vidět, že nejsou připoutány, i když mají na tváři namalovaný úplně jiný obličej…
 
 Co opuštěnců je všude kolem, zoufalých, válejí se po zemi a křičí, okázale hluční, okázale spokojeni, okázale svobodní – pyšni na sebe, že jsou neuvázáni, bez chomoutu, povzneseni nade vše; hlomozí, povykují, chlastají, zvracejí a pláčou, v noci pak škrábou na dveře, hlasitě kvílejíce: domů! Pusťte mě domů! Tady je strašná zima!
 
+</section>
+
+<section>
+
 Ta zima a hlad. Ten hlad. Po objetí a lásce, po lidském teple, po hořických trubičkách…
 
+</section>
+
+<section>
+
 Čínské přísloví praví: kdo ze žalu neztloustl, neví, co je žal…
+
+</section>
+
+<section>
 
 Dřevěný vagón. Horká zem, plná kolomazi a dehtu. Z ní se tu a tam odevzdaně pokouší vyrazit malý, tuhý, špinavý jitrocel a hned nad zemí zoufale rozpažuje listy. Zběsilé bzučení vos kolem odpadkového koše s tácky od hořčice, nad nímž se tetelí horký vzduch.
 
@@ -138,6 +236,10 @@ Hvizd lokomotivy, vlak drcnul a pomalu se rozjel, teta na peronu se zmenšuje a
 Matka se unaveně opírá o dřevěné opěradlo – unaveně vzdychla a unaveně zavřela oči. A já vím, že ona je také neodvolatelně sama a život je strašný.
 
 Vagón je prohřátý odpoledním sluncem a já, skrz naskrz prostoupena bolestí, zvanou láska, to nevím, protože je mi dvanáct, a tak se jen snažím to nějak vydržet a neumřít, jako když sedím u zubaře s hubou dokořán a venku za oknem z mléčného skla choděj lidi jakoby nic a nedá se s tím vůbec nic dělat…
+
+</section>
+
+<section>
 
 Někdo ve mně má bolestnou potřebu opakovat tu zkušenost, která mě přesahuje –
 
@@ -167,7 +269,15 @@ Vzala mi s odporem talíř a ten poslední knedlík vyhodila – a byli jsme
 
 protože byl jinde a ona musela být s námi, tak za trest, to máme za trest!
 
+</section>
+
+<section>
+
 Nevěřila byste, co všechno může člověk sežrat a neumřít –
+
+</section>
+
+<section>
 
 Ale já všechno snim, pani doktorko, tohle já umim, to mi jde! chce to jen mít k tomu ten správnej vztah, dyť i to zkažený se dá sníst při troše snahy, plesnivej jogurt – nahnilý jabko – dyť by to byla věčná škoda vyhodit – nemáte tu něco? no vidíte! dejte to sem, dyť by to byla škoda –
 
@@ -191,6 +301,10 @@ jsem popelnice světa!
 
 bim-bim-bim! nevěřila byste, co člověk může sežrat a neumřít…
 
+</section>
+
+<section>
+
 Voňavá vlhkost měkké lesní půdy. Chladný mech pruží pod chodidly. Šero: zleva od paseky oslnivě probleskuje slunce mezi stromy. Prohřátá paseka sálá hustým, nehybným letním teplem. Dunivý hukot čmeláků, cvrčků a lesních včel…
 
 Ze síně tradic se můj muž vrací zbitý a šťasten. S chutí mě potom nakopne a řekne: nejsi tak veliká, co? nejsi tak chytrá? Pro jistotu se úslužně usmívám a vděčně sleduju jeho sešmajdané, kdysi kostkované pantofle, jak pleskají kolem mé hlavy někam dozadu za koberec; znovu zavírám oči, přikládám nosní dírku k prkenné podlaze, vdechnu – a skrze prach stopuji vůni pryskyřice, která mne vrací mezi jehličnany…
@@ -211,7 +325,15 @@ V síni tradic přebývá také voják. Za nocí sestupuje z obrazu, vystupuje
 
 Po každém tom obřadu se můj muž třese jako mokrý pes a voják povyroste; nabírá sil a je stále větší a větší. Už měří skoro dva metry, což by do cínového vojáčka nikdo neřekl…
 
+</section>
+
+<section>
+
 Říkala jste sny, paní doktorko: naše bouda má v zadním traktu ještě několik malých pokojíků, za nimi je krásná vnitřní zahrada s jezírkem naplněným průzračnou, čistou vodou, malebně nepravidelné okraje, malebné okrasné traviny kolem, bílý, vzdušný kruhový altánek a v něm stolek, na něm otevřená kniha – říkám někomu, podívej se na tu nádheru – a tady ta rozepsaná kniha je moje, to je můj život, tady tu svoji knihu života určitě napíšu; jistě to bude něco krásného…
+
+</section>
+
+<section>
 
 Drží mě tu svázanou, jistě, ale ono je to relativní: například jaká pouta, když vlastně nechci nikam jít? Jaké omezování, když se nechci ani protáhnout? Prostě nejsou žádná pouta – nejsou – Řežou a pálí. Brečím. Je mi to všechno děsně líto. Všechny ty bláboly o užitečnosti – jenom cílená lež… Co se mnou asi udělá, až mu tady umřu?
 
@@ -221,7 +343,15 @@ Proč se neprotáhneš, když můžeš? Řvu na něj, ale ani se na mě nepodív
 
 Ááá! Blééé!! Křičím – nepodíval se na mě, neohlédl se, ale přestal se houpat a vtáhl hlavu hloub mezi ramena. Ještě chvilku povykuju – nikdo mě neslyší, jasně, zbytečně se unavuju, jasně, ale proč mu to usnadňovat…
 
+</section>
+
+<section>
+
 Možná bych si i zvykla, paní doktorko, i když mé tělo bylo samý bolák a samý šrám; řetězy už vrostly do masa, horká tepavá bolest přešla zvolna v tupou, a ta potom pomalu chladla. Ale jestli měl být tohle konec, nebylo to zas tak zlé: musel mě něčím udržovat naživu, nevím, moc si na tuhle dobu nepamatuju: má duše stále víc plula povětřím, zatímco mé tělo zřejmě začalo hnít…
+
+</section>
+
+<section>
 
 Určitě někde jsou ty moje ztracené věci – všechny ty liché rukavice, fotografie ze školy a několik angličáků, co mi je ve škole ukradli… a taky dopisy, ano, dopisy. Vybavuju si jeden:
 
@@ -238,6 +368,10 @@ proto jsem potřebovala ten bubínek, strašně jsem ho potřebovala, abych mohl
 V té tmavé kuchyni, kde na kredenci sedí velmi, velmi stará panenka s nacukrovanými šaty; s cukrem vyztuženými šaty, kdysi namočenými do cukrové vody a pak schnoucími na hrnci – a já jí ten cukr ožvejkávala, a ta místa byla pak děsně špinavá, zašedlá a umolousaná, a taky schlíplá a nedržela formu –
 
 všichni jsme schlíplí a zoufalí, v téhle temné, chudé, umolousané kuchyni, všichni chcem z toho pryč – on i ona i já i bratr i ten druhý bratr, co se ještě nenarodil; nikdo tu nechce být, ale nikdo to neřekne nahlas, protože – to se přece nedělá…
+
+</section>
+
+<section>
 
 Jednou v noci jsem své bratry oblékla, paní doktorko, bylo mi šest, jim tři a dva, oblékla jsem je a vyšli jsme na ulici. Musela jsem je odvést, aby je taky nesmetla, příbojová vlna, šli jsme ven, do tmy, někam pryč, najít si jinou maminku, protože téhle jsme jenom pro zlost, všechno zničíme, má s námi jen starosti, tak aby netrpěla…
 
@@ -263,15 +397,31 @@ a on si důstojně odkašle a důstojně odejde do své pracovny. Kde důstojn�
 
 Ach ano: dětství! Krajina děsu…
 
+</section>
+
+<section>
+
 Proto asi musím pořád jíst, paní doktorko, já jak něco vidim, strčim to do tlamy a sežeru, všechno sežeru – nenávidim se, jasně že se nenávidim, topim se v sádle, nemůžu dejchat, srdce mi buší jako kulomet a potim se jako dveře od chlíva, mám pořád vytřeštěný oči a všemu se chechtám, můj stav je stav ohrožení, paní doktorko, ale pořád se chechtám a všechno sežeru.
 
 Chodívala k nám na návštěvu matička, a když viděla, jak ležím na zemi v řetězech a zpod jazyka mi trčí kus šedavého uzeného, spráskla ruce a zvolala, no to se teda někdo má, jen tak se povalovat, ten si tě ale vykrmuje, ten si tě hledí, no má to někdo štěstí, narazit na tak hodnýho chlapa, to já to štěstí neměla!
 
 A měla pravdu, matička moje, neodvolatelně sama, sekyrou osekávaná, do drátů vplétaná, na skřipci natahovaná, ale stále kvetoucí, stále čiperná a triumfující, s hlavinkou hrdě vztyčenou, aby každý viděl, že má víc sil než tatíček, aby každý viděl, že na ni tatíček nemá a že je vůl… Tatíček chtěl svoje metody konzultovat s tím mým, ale ten můj je takový ňouma, že nezabral…
 
+</section>
+
+<section>
+
 Chodívá k nám na návštěvu i bratr vůl. Bratr vůl je skvělý. Jeho rodina je skvělá, jeho kariéra je skvělá, jeho účty jsou skvělé. Bratr vůl k nám chodívá a rád nám o svém životě vypráví. Ten můj při tom úpí a kvílí a rve si vlasy a drásá hruď, což staršímu bratrovi dělá nesmírně dobře, a odchází od nás sám se sebou velmi spokojen. Příště přinese obrázky z dovolené.
 
+</section>
+
+<section>
+
 Snažím se ho hřát. Jednou si toho všiml, zatvářil se překvapeně, skoro se jako by usmál – ale pak sebou polekaně škubl a odskočil. Od té doby pak důsledně udržoval dostatečný odstup, aby si nezadal. Aby si o něm něco nemysleli. Aby se mu nesmáli. To pak tančí svůj tanec pohrdání: okázale mne obchází po špičkách, okázale se nakrucuje v bocích, vyráží bojovné zvuky, ovívá si nos, vysoko zdvižený, aby byla zřejmá jeho nelibost nade mnou, štítivě do mě šťouchne špičkou boty a významně pomrkává směrem k síni tradic, aby viděli. Aby viděli, že je chlapák a že se snaží. Velmi se snaží. Miláček. Pak do mě cpe krmení hned několika otvory najednou, aby mi bylo jasné, že je hodný a že mě má rád.
+
+</section>
+
+<section>
 
 Myslela jsem si, že to nějak půjde. Že to bude jako všude; že na mě vyplivne svou hořkost, já na něj vyleju svoje zklamání, pobijem se, utřem krev a půjdem si spolu koupit nějaký hezký záclonky.
 
@@ -281,23 +431,63 @@ Ustřihni konec!
 
 Mám spoustu práce: musím se toho ještě tolik odnaučit…
 
+</section>
+
+<section>
+
 Bratr vůl hodně pracuje. Dělá to z lásky: miluje peníze. Miluje i svou dceru. Co mu utekla žena, tak ještě víc, protože aby nebyl sám. To se nevyplatí. Bratr je skvělý a jeho žena je taky skvělá, ale jednou potkala jednoho ještě víc skvělého, tak s ním odešla, protože to by byla blbá. Bratr vůl tedy koupil dceři dům a hned se do něj nastěhoval, protože to se vyplatí. Taky jí sehnal ženicha z řad svých zaměstnanců, protože to se vyplatí. Dcera pak chtěla děťátko, protože to se tak dělá, kočárek se záclonkama a tak, ale bratr vůl řekl ne. Už se o dcerušku dělí se ženichem, a ještě s děťátkem, to už se nevyplatí. Žádné děťátko se nikdy nevyplatí. A tak žijí všichni tři v tom domě, jedí u jednoho stolu a spí v jedné posteli, protože to se vyplatí, a tak se mnoho nezrozenou potlouká kolem, než seznají, že jsou všechny přístupové cesty neprodyšně uzavřeny, neboť je uzavřel bratr vůl, co hodně pracuje, protože se to vyplatí, a letos pojedou všichni tři na dovolenou v půjčeném autě, protože se to vyplatí, a budou spát v půjčeném stanu na parkovišti hned vedle toho auta a budou jíst psí konzervy a všechno to bude príma a bratr si to všechno nafotí a přijde nám to ukázat. A tak bratr vůl září, jak se to všechno daří a jak se to vyplatí, a jeho dceruška stárne s divným úsměvem na tváři…
+
+</section>
+
+<section>
 
 Ten můj rozvazuje zauzlované motouzy, rovná zmuchlané papírky a snaží se vyrobit nějaký stroj z krabic od mlíka. Musí vykonat nějaký čin. Je přece chlap, tak se to od něj čeká. Rovná kusy prken a staré plechovky, aby byl kolem nějaký řád. Aby byl v jeho životě nějaký řád. Pročítá staré noviny a hledá v nich nějaký smysl. Je mi ho tak líto…
 
+</section>
+
+<section>
+
 Zdálo se mi, že je loutkou v ženských šatech, byl to nějaký kroj, stál strnule proti mně a překážel mi v cestě, chtěla jsem ho odstrčit, odsunout, aby mi nepřekážel, ale on nehybně stál, strnulý, tuhý, zíral skrze mě – ptala jsem se ho, o co jde, mlčel, strčila jsem do něj víc, zakymácel se, ale stál, vyndala jsem tedy odkudsi nůž a bodla ho do hrudi, ale on pořád stál, bodala jsem do něj, ani nehlesl, jenom se vždycky trochu zakymácel, několikrát upadl, ale hned zase prkenně vstal, všude plno krve, ach bože, tolik krve, muselo ho to bolet, ale on vždycky zase vstal, snažila jsem se po něm dupat, když ležel na zemi, bylo to hrozné, bylo mi ze mě zle, jeho mi bylo líto, ale neuměla jsem z té situace odejít, on nezmizel, neuhnul, jak bych potřebovala, nedal se obejít, pořád stál v cestě, pořád tam trčel, jako když ode mě něco chce, a já do něj pořád bodala nožem – byl v ženském kroji, tuhý a tragicky směšný, a já ho neuměla zabít, tam v kulisách…
+
+</section>
+
+<section>
 
 Přivedl si nějakou cizí ženu. Nějakou velmi nešťastnou cizí ženu. Špinavou. Smrděla chlastem. Vepředu měla jenom dva zuby, urousané vlasy a v nich vetknutou nějakou ohavnou, dobře míněnou zlatou sponu z pouti – nerozuměla ničemu. Myslela, že ji má rád, ale on ji jen použil, aby se se mnou nějak vyrovnal, jako použil mě, aby se nějak vyrovnal se svou matkou, aby jí dokázal, že je frajer, té bedlivé v síni tradic… Ta ošklivá se snažila, hodně se snažila, a potom nerada odešla, když ji vyhodil, zadívala se na mě a nechápala nic…
 
+</section>
+
+<section>
+
 – ale kdo komu slouží? slabý silnému, nebo naopak? Stará se dítě o matku? opatruje nemocný lékaře? A tak odkládám svou jedinečnost, abych se starala o tvé blaho bez reptání jako Herakles, když hověl vůli vzteklého Euristena… Zříkám se své tváře a pevnými tahy kreslím jinou, abych se co lidská bonsaj zařadila v síť nutností; neboj – nedovolím té dokonalé masce byť škvírečkou poodhalit to rudé uvnitř, to zjitřené a horce tepající, co tě tak děsí – pardon: čím tak okázale pohrdáš, můj bojovníku…
+
+</section>
+
+<section>
 
 Bratr vůl na něj útočí. Ten můj se s ním za nocí utkává; prosí o uznání, prosí o lásku, prosí o milost, pláče… Ta z bufetu mu poradila, aby kolem sebe udělal skořápku. Bratr vůl přišel, aby nám vyprávěl o svém novém úspěšném obchodu s dovozem použitých párátek. Ten můj naslouchal. Byl ve skořápce. Jsem ve skořápce, opakoval si, jsem v bezpečí, nikdo na mě nemůže, jsem ve skořápce. Bratr vůl viděl, že žádný skřípot zubů, žádné slzy, žádný pot. Přidal tedy na kritice a ostří, přidal i výsměch, ale ten můj jen kýval hlavou, naslouchal a říkal: opravdu? Kdo by to řekl? Zajímavé… A tu bratr vůl počal jevit neklid, vrtěl se, rudl, poposedával a mlaskal přes falešné zuby, přes skvělé a drahé porcelánové zuby, nakonec to nevydržel, praštil do stolu, kopl do židle, práskl dveřmi a zuřivě odfuněl, pln ochromující nenávisti, nikoli celkově posílen, jak byl předpokládal, a tak na milostné schůzce, kterou si záměrně naordinoval hned po návštěvě u nás, nestál vůbec za nic. Bravo! Ten můj to zvládl – no není skvělý?
 
+</section>
+
+<section>
+
 Ach bože, vajíčko: mluvím na něj – už neutíká, ale zdvořile s hlavou na stranu opáčí: neříkej, opravdu? Vážně? Myslíš? A odchází.
+
+</section>
+
+<section>
 
 Paní Jarmilka se už nemusí bát o své děťátko, paní Jarmilka používá naše nový aktivní dynamický extra supermejdlo! Její děťátko, její ústní dutina, toaletní mísa, houbička na nádobí, její podpaží už není čisté, ale hygienicky-chemicky-zářivě-bíle superčisté! Vše živé, co nám žije na řasách, v postelích, odpadech, ve střevech, ve vodě, ve vzduchu a za ušima, všechno to podezřelé a divné, co se nám vůbec nelíbí, protože je to úplně jiné a jde z toho strach, to všechno naše supermejdlo spolehlivě zářivě bíle hygienicky a snadno odstraní! Už se nemusíme bát o svá děťátka, už jsme ve vesmíru sami!
 
+</section>
+
+<section>
+
 Kdyby dal Bůh rybám hlasivky, změnilo by se něco?
+
+</section>
+
+<section>
 
 Zatímco vítězný kapr v igelitovém pytli dělá, co může, Vlastík se chystá skočit do vody.
 
@@ -327,6 +517,10 @@ Nad rybníkem letí čáp. Těžká práce s těmi slovy: co všechno se vejde 
 
 Vlastík plave zase zpět. Pak plave ještě tam a zpět a tam a zpět. Už se na něj nikdo nedívá.
 
+</section>
+
+<section>
+
 Uřízl mi hlavu. Dlouho mu to nešlo, ale nakonec se to podařilo; vsadil mě otevřeným krkem do květináče, abych pustila kořeny. No co, jsou na tom jiný hůř. A on to udělat musí, je přece chlap: musí mě školit, musí osekat mé plané větve a já se musím snažit, abych mu byla k užitku, musím napevno zakořenit, vykvést a vydat plody, aby na mě mohl být pyšný, jak mě zvládl, už skoro zplanělou, aby mě mohl vzít kolem ramen a říct, pocem, ty seš moje holka! Rozloučila jsem se tedy s hlavou, co to je, taková hlava, zbytečně rozptyluje, ráda se bez ní obejdu, když mu překáží, stejně ji už potřebovat nebudu, když jsem teď s ním. Třeba se to podaří, a potom budeme spolu hrát takové ty běžné hry a budem se při nich doplňovat; já budu stavět pokojíky pro panenky a on bude v síni tradic vylepšovat svou obranu, bude zdokonalovat svoje brnění, brousit meče a zpevňovat obranné valy –
 
 jenže se mi nedařilo zapustit kořeny do země; snažila jsem se, přemlouvala se, ale nešlo to, on to určitě nějak popletl, nešika, asi mě měl zasadit nohama dolů, nebo přivázat ke vchodu anebo vplést do rámu, jak se to dělá, já mu to říkala, už když mi nasazoval pilu na krk, prosím tě, zkusme to jinak, takhle to nepůjde, ty ode mě chceš něco, co neumím, takže ti nemůžu posloužit, jak umím: takhle tě nemůžu hřát, hřát, to mi jde –
@@ -341,11 +535,23 @@ Hrozně to bolelo, on je totiž děsný nešika, s pilou to neuměl, půjčil s
 
 jak mi to psávala matička: „nemysli si, že život je nějaká zábava, že tě bude někdo bavit! Co myslíš, co já vytrpěla! Ty to máš dobrý, ty máš mě, ale já? Dyť tenkrát ani žádný matičky nebyly!“
 
+</section>
+
+<section>
+
 Zdálo se mi, že se topím, a on se na mě dívá, jestli se utopím. Šlapu vodu, polykám, křičím, on čeká, jak to dopadne. Potom jde pryč.
+
+</section>
+
+<section>
 
 Topím se v blátě: trpělivě mě zalívá, i když se mu škubáním nohou snažím naznačit, že to takhle nepůjde, že takhle ho nebudu hřát…
 
 On není zlý, paní doktorko, on je jen bezradný a neví, co se mnou. Nestačí na mě, neví, jak mě ovládnout, zpracovat, zmáknout, dostat pod svou kontrolu – a to ho štve. Pochopitelně – je přece chlap! Musím ho brát, jaký je. Musím zapomenout na svoje sobecké zájmy a věnovat se jeho sobeckým zájmům: proto jsem se narodila. Proto tu jsem.
+
+</section>
+
+<section>
 
 Asi už umírám – je to fuk. Škoda. Mohlo to dopadnout líp. Mohlo to být možná docela fajn. Mohla jsem ho naučit mýt se a čistit si zuby a měnit prádlo – mohli jsme spolu být takový ten ušlechtile prošedivělý pár z reklamy na kafe. No nic.
 
@@ -355,11 +561,23 @@ Vypadalas děsně, řekl mi potom, když ses tak najednou vydrápala na nohy, k�
 
 tančila jsem mu svůj tanec na rozloučenou – chvíli mě pozoroval, jestli upadnu, a když jsem upadla, odešel dozadu ke svým hračkám…
 
+</section>
+
+<section>
+
 Asi jsem potom začala opravdu chladnout a hnít – a tu i on si všiml, že nějak bezvládně visím z květináče, vytáhl mě, zeminu očistil a krk zašpuntoval žárovkou. Snažila jsem se mu dát najevo, že kdyby mě objal… ale nějak to nepochopil, jak říkám, popleta – a zavedl mi do srdce drát… Tvářil se přitom provinile, snad tušil, že něco není v pořádku, a tak mi do jícnu cpal laskominy, abych viděla, že je na mě hodný a že mě má rád…
 
 Byla to blbost, s tou hlavou, řekl mi později, ženská a hlava, to je proti přírodě, ženský se hlava má utínat včas.
 
+</section>
+
+<section>
+
 Topím se. Kamenný anděl se na mě nehnutě dívá: jestli to nezvládnu, nejsem jeho dcera, takže žádná škoda. Jestli jsem jeho dcera, musím to zvládnout. Šlapu a polykám vodu, chrčím a volám o pomoc. Kamenný anděl mlčky čeká, jak to dopadne. Já už nechci tyhle sny!
+
+</section>
+
+<section>
 
 Paní doktorko, proč mě můj táta neměl rád?
 
@@ -381,29 +599,73 @@ A co hergot dělám mezi všema těma amatérama…?
 
 Totéž co oni…
 
+</section>
+
+<section>
+
 Bílý dům se zahradou a dětmi – někde to přece musí být…?
+
+</section>
+
+<section>
 
 Bratr vůl má přítelkyni, kterou si ale nevezme, protože se mu to nevyplatí, ale chodí k ní na večeře, protože se mu to vyplatí.
 
+</section>
+
+<section>
+
 Co kdyby měla Popelka větší nohu…?
+
+</section>
+
+<section>
 
 Oplodnil mě. Jednou se opil a oplodnil mě. Bez vášně, věcně a s rozmyslem. Pak poodstoupil a soustředěně sledoval, jak mi roste mateřská hlava, jak mi bobtná břicho a jak ze mě leze bezbranná larva. Dal ji do klece. Bude z ní motýl, tak aby neuletěla.
 
+</section>
+
+<section>
+
 Larva je ke mně přisátá a pije. Nebo je přisátá a spí. Nebo je přisátá a usmívá se ze spaní. Když pije, zhluboka táhne a hlasitě polyká a soustředěně přitom funí a pevně se mě drží malinkejma prstíčkama. Miluju ji. Bojím se o ni, strašně se o ni bojím.
 
+</section>
+
+<section>
+
 Zahřívám larvu, zahřívám ji, jak to jde – on udržuje odstup.
+
+</section>
+
+<section>
 
 Larva ochutnává svět: hlemýždí se mi kolem nohou, na všechno se sápe, všechno si cpe do chobůtku, na všechno civí. Mačkám ji, muchlám a ona se odevzdaně chechtá masitým smíchem.
 
 Chodíme s larvou ven. Všechno si prohlíží a všechno opěvuje hlasitým hýkáním. Kupuju jí všelijaký šatičky a mašličky a krejzlíčky a volánky, věším to na ni a láskyplně se jí posmívám, no vy ste teda srandovní pani, říkám jí, nejste vy náhodou nějaká pokakaná princezna? A ona se hlasitě směje, a neví čemu, a já se směju, že ona neví čemu, a směje se oddaně se mnou, sladká, sladká…
 
+</section>
+
+<section>
+
 No má to někdo štěstí, taková krásná larva, to my to štěstí neměli, viď, tatíčku, nám se dítě nepovedlo – no pocem, cukroušku, ty seš teď moje kamarádka a mámě to neřekneme, že jo, co?
 
 Matička jako inteligentní hmyz rozeznává a dělí svět na přátele a nepřátele; dokáže vždy přesně mířit a neomylně zasáhnout; je mistryně i v navazování krátkých účelových spojenectví – ale mně je to fuk: – jsem nezranitelná.
 
+</section>
+
+<section>
+
 Spíme spolu s larvou na jedné rohoži. Jemu se to nelíbí.
 
+</section>
+
+<section>
+
 Musí prožít krásný život. Ochráním ji ode všeho zlého. Všechno zlé od ní odkloním. Všechno těžké za ni udělám, všechno špatné za ni sním. Do smrti ji budu kojit. Do své smrti – ne, do smrti nás obou. Vydržím s ní naživu, dokážu to, má přece jenom mě.
+
+</section>
+
+<section>
 
 Čekám zemětřesení. Mám strach, aby se larvě něco nestalo. Ano, musím se mít na pozoru, musím být na všechno připravena. Mám tašku nachystanou v místě, které snad spadne poslední – a v tašce čokoládu, vařič, sirky, ovesné vločky – takové ty věci, co nás zachráněj – co nám daj přežít nejhorší chvíle –
 
@@ -413,15 +675,39 @@ taky se před spaním podívám za všechny bedny a všude kolem, aby tam nebyl
 
 mám u postele železnou tyč, kdyby něco, protože von by se ne­probudil – a kdyby se probudil, tak by se nepohnul, a kdyby se pohnul, tak by nic neudělal – a kdyby něco udělal, tak určitě nic, co by nás s larvou mohlo zachránit – jestli mi rozumíte – něco pro nás, co by nám pomohlo…
 
+</section>
+
+<section>
+
 Sen: sedím na skalisku, mokrá, nahá, v ostrém studeném větru; třesu se zimou, veliké rudé slunce na obzoru cloní ohromná černá loď. Vypadá temně. Zlověstně. Ptala jsem se kartářky, co to znamená, a ona mi řekla, že Krásný princ vzkazuje, že dneska nemůže přijít, ale zítra už určitě.
+
+</section>
+
+<section>
 
 Teplá, měkká, hřejivá náruč: dotknu se jí a dostanu ránu od elektrického učitele. Vábná, vonící krmě: rána. Přívětivý muž s přátelskýma očima: rána. Dobrácká maminka s laskavým úsměvem mi jde vstříc: rána. Obrazy v mžiku mizí, rozpadlé ve virtuální prach, střídané obrazem přibouchnutých dveří, odjíždějícího vlaku, hroutícího se schodiště, ledu, praskajícího pod nohama… sleduju všechny vzdělávací kurzy. A tohle je dobrý kurz. A já jsem skvělá studentka. Jen počkej, já ti ukážu!
 
+</section>
+
+<section>
+
 Obřadně natahuje hodiny. Obřadně čte a skládá noviny. Obřadně rozevírá na Nový rok nový kalendář: obřadně, soustředěně a důležitě prolamuje jeho tuhé desky a staví na stůl. Když je všechno kolem hotovo, vše uklizeno, nakoupeno, přineseno, očištěno a nakrájeno, tak míchá a z nicoty vyvolává k bytí salát. Obřadně. Je Velikým Autorem Salátu. Všechny své malé, zbytečné nesmysly dělá nesmírně obřadně, protože ví, jak je strašně zbytečný, a tak musí všem svým výměškům připisovat absolutní vážnost. S nejvyšším soustředěním kontroluje denně teplotu a tlak vzduchu a pečlivě si to zaznamenává do velikého tlustého sešitu, jakých máme dvacet nahoře na půdě. Do plechového hrnku sbírá a měří množství srážek na zem spadlých. Jednou ho překlopil a vychlemtal pes – dolila jsem to podle oka – takže ten údaj bude už navěky falešný – rozestoupí se nebesa a otřese zem? Tenhle tlustý a zbytečný sešit s krasopisnými záznamy srážek a teploty bude jednou spálen s odpadky stejně jako on. Bože, jak ho nenávidím!
+
+</section>
+
+<section>
 
 Dobro-zlo, noc a den – budiž. Ale je brzda opakem motoru?
 
+</section>
+
+<section>
+
 Bratr vůl přišel na skvělý nápad: že si z naší chatrče udělá kancelář, kde bude lidem radit, jak mu mají dávat svoje peníze. Ten můj je zmaten.
+
+</section>
+
+<section>
 
 Mohlas odejít.
 
@@ -429,11 +715,23 @@ Nemohla! A kdyby: kampak bych chodila, co by si beze mě počal! Takový nešik
 
 Někdy ale řekne: miluj mě! – a já se nahá rozdírám o jeho brnění – do slz a do krve, tak to má rád… to mu dělá dobře… vždycky pookřeje, když slábnu – to je taková naše hra, rozumíte?
 
+</section>
+
+<section>
+
 Sen: porodila jsem syna, matička jej hodila do studny a spráskla ruce: jeminánku, to jsem to ale vyvedla! On mi upadl! Jsem to ale popleta popletená – no to jsem celá já…! Co teď budeme dělat?
+
+</section>
+
+<section>
 
 Kdyby vás strčili do klece, kde už čeká lev, do jámy plné hadů – to je strach z matky. Odsouzení k roztřesené nemohoucnosti. Ochrnutí. Bezmoc. Hněv, zloba a agrese, která by jinak už dávno nastoupila k mojí obraně, má tudy zakázaný směr; napřažený meč se ve vzduchu bezradně kymácí: na hlavu tohoto útočníka nesmí dopadnout. Obracím jej tedy proti sobě…
 
 Tohle se mé larvě nikdy nesmí stát!
+
+</section>
+
+<section>
 
 Tatíček umřel. Podle výpovědi svědků se zadíval někam nahoru, jestli není děravý okap, a vtom uviděl všechno najednou: svou ubohost, mou ubohost, matiččinu ubohost i zoufalství mých bratrů – a nad tím vším jako klenbu marnost ušlého času. Nebesa se nad ním otevřela a on, prostoupen světlem a bratrstvím se zbytkem vesmíru, rozechvělý návalem vděčného pláče, zmáčený slzami a s tváří zvrácenou k nebi, stál s rukama rozpaženýma a prosil za odpuštění; stál tam na zahradě, vesmírem láskyplně objímán, a toužebně si přál, aby tahle chvíle nikdy neskončila; v tom momentě všechno zmizelo. Viděl se, jak stojí rozpažený pod okapem a civí vzhůru, chvíli se udiveně rozhlížel, a potom svěsil ruce a zbytek dní strávil pláčem a všem se omlouval a prosil za odpuštění, a potom plakal, že se ta chvíle nikdy nevrátí. Potom si lehl a řekl, dneska nejspíš umřu. Ale prosimtě! ty budeš ještě prohánět holky na tancovačce! řvali jsme na něj a strkali do něj, dloubali ho přátelskými dloubanci, častovali přátelskými štulci, cloumali jsme s ním a všelijak jinak s ním bodře zacházeli, ale on řekl, už mě to tu nebaví, a umřel.
 
@@ -441,7 +739,15 @@ Matička pečlivě cídí jeho hrob. Černá jí velice sluší. Nosí s sebou 
 
 Celá ožila a píše hodně dopisů. Miluje dopisy: ten skvělý virtuální svět, kdy nic neklade odpor a skutečnost je konečně dost efektní, oslnivá, barvitá, děsivá a šokující, jak to máme rádi. Vlastně až v dopisech stojí za to žít…
 
+</section>
+
+<section>
+
 Vzpomínám na tatíčka, jak stojí v koupelně před zrcadlem, dělá na sebe bojovné brady a pulzující čelisti a říká si: seš chlap. Víš svoje. Nic tě nerozhází. Tobě nebude nikdo nic povídat. Víš, co ti můžou. Máš jasno. Seš tvrdej. Bojovně na sebe mhouří oči a tvrdne a mužní před tím zrcadlem a všelijak jinak hubí ženu v sobě. Matička na doslech zrovna náhodou utírá prach – všude tady kolem – tu špínu po nás všech, protože někdo to udělat musí – a jen tak zlehounka, bezpečně kryta tatíčkovou hluchotou, si tichounce, jenom tak pro radost, prozpěvuje: chcípáku – blb-če, zmet-ku!
+
+</section>
+
+<section>
 
 Larva je náhle jiná – neklidná, rozmrzelá, nesvá, odstrkuje mě – zlobí – co dělám špatně?
 
@@ -461,9 +767,21 @@ a druhého dne byla někdo jiný: zamyšlená a vážná – a pak se náhle 
 
 Zvrásněla jsem u vědomí, jak jsem unavená a kolik času uběhlo, zatímco tady zbytečně cloumám řetězy – co s tím?
 
+</section>
+
+<section>
+
 Sakra, zbyli jsme tu jen my dva – známe se už tak dlouho, proč třeba nejdeme ven? Venku je svět a lidi a tak –
 
+</section>
+
+<section>
+
 Nevím, jestli se o něj starám dost dobře. Občas křičí ze spaní: mámo! Maminko! Hošíček chce šoustat! A pláče a buší pěstmi o zem, a já ho chlácholím a hladím a konejším, až se mi ztiší na prsou a kouše si nehty a fňuká: hošíček je hodný, hošíček nezlobí – a usne…
+
+</section>
+
+<section>
 
 Pokusila jsem se ho obejmout – odtáhl se a něco zavrčel. Ale občas mě očichává, aby zjistil, kdo jsem. Pořád ještě chce vypátrat, kudy na mě, jak mě řídit, aby mi mohl podlehnout, kdyby chtěl –
 
@@ -475,17 +793,37 @@ Aby mohl být můj otrok, můj pes, moje dítě a můj pán, kdyby chtěl – 
 
 Trvalo mi to léta, než jsem trochu objevila, jak to vlastně je – a bylo to snadné jako péct sněhuláka v troubě. A mělo to i stejný smysl…
 
+</section>
+
+<section>
+
 Zjevil se mi kamenný anděl a řekl: podřídíš se stejným zrůdám, jako jsem já.
 
+</section>
+
+<section>
+
 Bratr vůl zemřel. Odešel po zralém uvážení po kontrole účtů, kdy zjistil, že život sám je tak drahý, že se ani nevyplatí. Tak od nás odešel. Chytrý, šikovný a schopný přetrvávat za všech režimů s úporností plísně, schopný plout ve stínu mocných jako pěna za lodí…
+
+</section>
+
+<section>
 
 Zezadu mi podřízl nohy, abych vykrvácela. Drž, už to bude, musíš klidně držet, musím najít tepnu, abych tě dobře zabil, rozumíš.
 
 Rozumím. Snaživě držím, je to hodný člověk, potřebuje mě, nesmím ho opustit, musím mu vyjít vstříc, pižlá mi nohy, dost to bolí, je nešikovný, ani zabít mě neumí, pižlá mi zezadu do stehen, potí se přitom a nervózně funí, ne a ne najít tepnu – pižlá mě nějakým tupým perořízkem, pachtí se u toho, nejradši by to už měl za sebou, já taky – najednou toho ale mám dost – vidím se v zrcadle – tohle krásné tělo je přece moje, sakra, on mi ho chce poškodit? Odstrkuju ho – i s polovinou krve mám víc sil než on – vrávoravě vstávám a jdu od něj pryč, chabě a nemotorně se snaží mě zadržet, něco přitom drmolí, neblbni, pocem, ať to doděláme, nebo tak něco, ne že by po mně toužil, ne že by mě miloval – jen se mě tak nějak vlažně a neosobně, zato pevně drží – aby mě měl – aby mě mohl zabít – ne že by mě nenáviděl, ne že by mu to dělalo radost, prostě se se mnou musí nějak vypořádat – nezkrotil mě, neosedlal mě, neobjel na mně třikrát dvůr, musí mě tedy zabít, jak to žádá rodový rituál – musí potvrdit svou převahu, musí to tak být; jeho rodina, shromážděná na fotografiích, to vše bedlivě sleduje z šedivých zdí: každý pohyb, každou kapku krve…
 
+</section>
+
+<section>
+
 Matička mi psávala dopisy, ve kterých líčila své utrpení a moje štěstí, abych si toho vážila a byla si toho vědoma a nikdy nezapomněla, jak jsem to vyhrála a na ten život vyzrála, kdežto ona to štěstí neměla…
 
 A já jsem ty dopisy schovávala, skladovala jsem je léta, až jich byly stohy a hromady, dávala jsem je do krabic, do velikých krabic, které jsem vršila na sebe, komíny krabic, plných dopisů od matičky, stály po léta v rozích a při stěnách naší prkenné boudy jako vysoké, šedivé, ponuré věže, kymácely se a hrozily spadnout…
+
+</section>
+
+<section>
 
 A četla jsem si tatíčkovy dopisy z cest: Moji Milí. Dneska jsem měl k snídani chléb s máslem, jedno vejce naměkko vařené, černou kávu a ovesnou kaši. V 9.30 jsem šel na toaletu, mírný průjem, a poté jsem se zabýval filosofií Pythagorovou. Myslím, že ke vztahu _omezeno–neomezeno_ ještě nebylo řečeno vše; přijmeme-li totiž jako premisu, že vše, tedy i _neomezeno_, vzniká rozdělením původního _jedna_, pak musíme přijmout, že sudá čísla vlastně neexistují, jsouce stále v zajetí svorníku onoho původního _jedna_. V poledne jsem měl řepnou polévku, patrně jen rozvařenou řepu, ale výživnou a chutnou, chléb s margarínem a mrkev. Slunce dnes svítilo téměř nepřetržitě, jak mohu soudit dle jeho odrazu na červených cihlách komína před oknem mé podkrovní pracovny. Pracoval jsem po celý den. Nezapomeňte provětrat mé slavnostní šaty. Tato zem jest velice zajímavá. Mnoho zdraví a božího požehnání. Váš otec.
 
@@ -497,7 +835,15 @@ PPS
 
 Mé dopisy prosím pečlivě uschovejte pro použití k mé biografii, na které začnu pracovat ihned po svém návratu. Stolice v pořádku.
 
+</section>
+
+<section>
+
 Matička ty jeho dopisy schovávala a skladovala je ve velkých krabicích, které vršila na sebe do velkých komínů, jež se kymácely v rozích místností a hrozily spadnout. Někdy nám dopis nahlas přečetla, než jej uložila do krabice. Jednou v něm byla slova jako _krása_, _rozkoš,_ _požitek_ – ptala jsem se, o čem ten dopis je. Koupil si nový rádio, řekla matička a složila dopis do krabice.
+
+</section>
+
+<section>
 
 Držím se sochy anděla, tvrdé a mrazivé, držím se jí křečovitě a křičím: pusť mě!
 
@@ -511,11 +857,23 @@ Každýmu se líběj hezký holky, mně se taky líběj hezký holky, ale ty se�
 
 Ále, prosim tě, nic se sebou nedělej, ten zoufalej výraz, ty mastný vlasy, ty kila navíc, ta nespavost, pocení, ten srdeční třas, to všechno k tobě patří! Dyť bys ztratila svou identitu! řekla mi kamarádka…
 
+</section>
+
+<section>
+
 Drtím sochu anděla v náručí – střepiny, zabodnuté do hrudi, nechávám tak…
+
+</section>
+
+<section>
 
 Čím víc to bolí, tím víc se mobilizuje má síla – a já se na něj povzbudivě usmívám, jakože to jednou bude fajn… Tím víc mě ale nenávidí a připadá si zbytečný…
 
 A pak jsem se jednoho dne, kdy seděl dlouho skrčený v rohu a nedával najevo, že by mě vnímal – pak jsem se nějak nevědomky protáhla – a moje okovy praskly jako slupka párku – a já byla volná… namáhavě jsem vstala, pomalu – praštělo to ve mně – pomalu, vratce, nejistě; podivila jsem se, jak jsem ve skutečnosti veliká – a jak on je malý – ale ano, byl skrčený, samozřejmě; zívla jsem a pocítila hlad a on byl najednou malinký, maličký jako opička, jako mraveneček, nepatrný – odmetám ho koštětem jako hračku, beru ho do ruky: nenávidí mě a nemůže ode mne odejít – ani já nesmím odejít – protože to bych potom přece neviděla, jak okázale mě nenávidí… a pak to zas všechno zmizelo, ach bože, je to tak složité…
+
+</section>
+
+<section>
 
 Vyšla jsem si jenom tak, bez pána a bez vodítka – a už tu byl stařec mého věku, a že mi bude dělat společnost. Řekla jsem ne, z čehož vyrozuměl, že se mi líbí, ale stydím se to přiznat. Řekla jsem způsobně, že skutečně, ale opravdu potřebuju být sama, a on řekl, už ti někdo řek, jak seš šeredná?
 
@@ -523,7 +881,15 @@ Ne, budeš první, řekla jsem.
 
 A on řekl: krávo – a odešel.
 
+</section>
+
+<section>
+
 Musím se snažit, musím zapomenout na svoje sobecké zájmy a věnovat se jeho sobeckým zájmům, blablabla, tak to má být, tak se to ode mne čeká, blablabla, musím mu udělat prostředí, když se vrací a zvrací, když se třese, ubohý a sám, když si líže rány a kope mě, aby uvěřil ve svou sílu, když se mi chechtá, aby uvěřil ve svou velikost, aby posílen zas odcházel znovu se pokusit řídit svět – jednou se mu to povede, určitě, co by jinak dělal? přece to sakra k něčemu bylo? přece to nebylo jen tak? přece to všechno má nějaký smysl, vyšší, skrytý smysl – který zatím neznám – anebo ne? – ach Bože!
+
+</section>
+
+<section>
 
 _Tady jsem._
 
@@ -538,3 +904,5 @@ _Chceš se vsadit?_
 Bože…
 
 _Pořád jsem tady: čím začneme?_
+
+</section>

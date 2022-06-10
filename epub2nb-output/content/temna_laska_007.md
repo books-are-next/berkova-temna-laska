@@ -3,6 +3,8 @@ title: Konec
 contentType: prose
 ---
 
+<section>
+
 _… tak vidíš, že to nebolelo._
 
 Ano! To je úžasné, skvělé! Dokázala jsem to! Ó díky, učiteli! Teď jsem volná, bez pout, můžu dělat, co chci… můžu třeba… někam jet? Ano! Do jiné země, kde je všechno úplně jiné, a tam někoho potkám, bude bohatý, bude mít bílý dům s bazénem a posilovnou a velkou zahradu s výhledem na moře a bude mě milovat a budu s ním šťastná…?
@@ -13,13 +15,29 @@ Dobře: tak nepojedu nikam moc daleko, jen do sídelního města, tam budu praco
 
 Ne, už to mám: ano! Budu chodit plavat a cvičit a nechám si vyhladit vrásky a vybělit zuby, abych byla krásná, a potkám někoho, kdo mě bude potřebovat, a já mu budu pomáhat a on mě bude milovat a vlezu za ním do boudy a… tak zastav mě přece!
 
+</section>
+
+<section>
+
 _Zmlkni, ó pošetilá, copak nevíš, že ke kratochvílím nejvyššího patří, že nám naše nejapná přání doslova splní? Čímž nás činí dokonale nešťastnými?_
 
+</section>
+
+<section>
+
 Když je žák připraven, učitel se najde…
+
+</section>
+
+<section>
 
 Ono se to řekne, ale já neumím žít; smečky učitelů života křižují zemi a nabízejí své služby; zaměřují se na nešťastné, slabé a mladé; jenže vůdci a kupci mají s mladými také své záměry, takže o mladé je boj: jsme země zaslíbená, protože moudrost předchozích generací je u nás tradičně vyhazována na skládku spolu s drahými kovy; naši mladí jsou tedy dost žádaní pro svou tvárnost, bezradnost a důvěru k cizím; to je pro obchod skvělé, protože vnímá-li mládež hlasy starších, je příliš stabilní, a pak už tak ochotně neskáče na špek a nedá se tak snadno ovládat. Proto každou novou generaci oddělujeme od té předchozí: národ od historie, syny od otců; každý bude zpracován zvlášť: kupec si vezme peníze, vůdce si vezme duši.
 
 My ostatní, co jsme už neatraktivní, protože máme moc zkušeností, abychom někomu zobali z ruky, zůstáváme ve věcech života vystaveni vlastnímu amatérismu; a tak žijem, jak se dá. Samospádem. Jak se to dělalo vždycky.
+
+</section>
+
+<section>
 
 Ale vůdců jak na pouti: jsou všech vyznání a směrů a lapají žáky, kde se dá: rozdávají letáčky, volají megafonem, rozvěšují fangle, potloukají se kolem škol, na tržištích a inzerují v novinách. Nejaktivnější jsou černí dědci: skvěle organizovaní, čiperně běhají a vykřikují, mávajíce ztopořenými ukazováky, rozhazují mezi mládež sladká cukrátka a co chvíli hážou na ně síť a vážou je a kšírují do postrojů.
 
@@ -47,6 +65,10 @@ A jinde vyučovali, jak se dívat pevně do očí – a jak být denně dvě 
 
 Připravte si sešity a tužky, milé děti, dnes si ukážeme, jak se dělají miniatury: na tohleto, co tady vidíte, na to jemně naneseme speciální lepidlo, toto, ukážeme to na kameru, dobře – a kdybyste náhodou doma neměli zrovna toto speciální, můžete použít jakékoliv jiné lepidlo – a teď to lepidlo jemně – a pomalu – sakra – teď jsem se – no nic – prostě to nějak naneseme, ano? Napatláme to semhle, aby nám model dobře držel – vidíte všichni dobře? No a pak to cáknem taky trochu sem, jestli se vám to taky vepředu ulomilo jako mně – táák – nejlíp nějakým vopravdu lepícím lepidlem, ne timhle – co mi to sem dali – no – anebo taky můžem použít mouku s trochou vody, jestli nemáme zrovna lepidlo, a takhle to prostě prdneme na sebe a držíme, pořádně, fest, ešššště – držíme – ano – no tak teda ne: tak to k sobě přivážeme anebo přitlučeme, sdrátujem nebo tak, prostě to všechno nějak slepíme dohromady – táák – hezky to zmáčknem – do takový kouličky jakoby – malinký – vidíte? aby to tam vlezlo – do tý flašky – do toho – hrdla ouzkýho – a nac-pem-to-tam, ty lodičky a domečky a všechny ty další serepetičky, nacpem to prostě do tý flašky a zašpuntujem tak: a teď dávejte pozor, teď to pěkně pro-tře-pe-me – a eště – a znova, a třepeme a třepeme, aby se nám to v tý flašce všechno zas poskládalo zpátky, všechny ty domečky a lodičky a stromečky a lavičky a sračičky – a třepeme – furt – a eště – no a když – se to – no: když se to teda neposkládá, tak to vyhodíme i s tou flaškou a začneme znova: máte tužku a papír?
 
+</section>
+
+<section>
+
 Nemá cenu na sobě pracovat, nějak se vylepšovat, něco se učit, když je mládí pryč, larva pryč a nikde žádná budoucnost… Anděl je mimo, bestie taky, pouta jsou pryč – a co? Co dál? Jakej _já_ mám smysl? Já sama? Život nějak proběh, strávila jsem ho nejspíš blbě, jsem unavená, stará a zbytečná, nikdo mě nepotřebuje…
 
 _Tak čau._
@@ -65,9 +87,17 @@ Ano! Ano – já – jsem motivována – nadšena – všemu rozumím a ch
 
 A vběhla jsem do houfu pobíhajících učitelů a volám: pomohu najít smysl života! Naučím zvládat deprese! Chceš zhubnout? Zeptej se mě jak! Vyložím karty – vyložím sny – máte trápení? Svěřte se!
 
+</section>
+
+<section>
+
 Učím. Sedím na velíně a hážu své maso mladým šelmám; jsou pružné a lačné a vděčné a věčně hladové. Milují mě. Milují mě k sežrání. K sežrání, rozžvýkání a strávení – zbytek tělo vypudí. Ztrácím se a mizím v nich, procházím jimi se zvrácenou rozkoší sebezničení. V tom je má nesmrtelnost. Má polosmrtelnost. Má mírně zpožděná smrtelnost…
 
 Larva zmizela a on je taky někde pryč. Ze zrcadla na mě zírá kdosi někdejší; vyprázdněný, odeznělý, bývalý. Slábnoucí echo slibného akordu… Já vím, že všichni stárnou, já vím, že každý musí jednou umřít, ano – ale i já…?
+
+</section>
+
+<section>
 
 Ó učiteli! Já jsem tak šťastna, že vás vidím! Tolik, tolik jsem na vás myslela! Já se tak ráda vzdělávám! A tak ráda pomáhám lidem!
 
@@ -135,11 +165,27 @@ Samozřejmě!
 
 _No když myslíš…_
 
+</section>
+
+<section>
+
 Tady to vidíte, paní doktorko: je toho tolik, co mám ještě pochopit… a tak dělám modely: světy, na které stačím… Třeba se jednou něco otevře… někdo to kreslí, někdo to tancuje, maluje, zpívá – zkouším to sepsat. Ale velmi, strašně a bolestně mi chybí společný tanec kolem ohně! Je strašná samota uprostřed velkého NE-já!
+
+</section>
+
+<section>
 
 Ono se řekne: odhoď pýchu a jsi opět v ráji; ale například se nesluší hladit na veřejnosti cizí lidi, jakkoli by se vám chtělo. Nebo se na návštěvě hlasitě rozplakat. Přivonět k člověku, který sedí vedle, položit mu hlavu na rameno a trošku si zdřímnout. A mnoho dalšího se prostě nehodí…
 
+</section>
+
+<section>
+
 Krajiny našich duší jsou neznámé – nekonečné a temné – se stopami krve v šeru – zde nechť se silné oddělí od slabého jemně a s porozuměním; jdem každý svou cestou; ty potřebuješ svět umělých pravidel, přehledný svět, na který stačíš: šachy, válku, fotbal, politiku – kampak na to všechno já – to divné zvíře žena…
+
+</section>
+
+<section>
 
 Proto dělám ty modely. On taky dělal modely. Přestože pravil Hospodin: _neučiníš sobě rytiny; ani jakého podobenství těch věcí, kteréž jsou na nebi svrchu, ani těch, kteréž na zemi dole, ani těch, kteréž jsou u vodách pod zemí._
 
@@ -147,13 +193,25 @@ Dělá modely kočka? Ne. Kočka se nezabývá rozhodováním, co je dobré a c
 
 – o čem asi po večerech psával Kain?
 
+</section>
+
+<section>
+
 Mnoho věcí čeká na mé pochopení; a mnohé se mi cpe do života, aniž hlasuji pro – valí se to na mě všemi otvory najednou: očima, ušima, poštovní schránkou… A mnohé musím přijmout, třebaže je mi to vyloženě odporné…, a mnozí řídí můj život, i když upřímně nechci… Například naše paní doručovatelka se opírá o zvonek a zvonek řinčí a řinčí a řinčí. Naše paní doručovatelka nemá ráda tu chvíli, kdy vstanu od stolu, projdu předsíní a jdu jí otevřít dveře, naše paní doručovatelka chce, abych otevřela hned. Abych už stála za dveřmi, když ona zazvoní, abych už byla připravena a otevřela jí hned, protože ona je pracující žena, kdežto já se nejspíš flákám, když jsem dopoledne doma. Naše paní doručovatelka ráda zvoní nejdřív na domovní dveře; já vylezu z vany, protože domovní telefon nemá záznamník, jdu do předsíně zvednout domovní telefon, který je ovšem hluchý, protože naše paní doručovatelka u něj nečeká: jde rovnou dovnitř a domovním telefonem pouze oznamuje svůj vstup, abychom mohli být přichystáni k jejímu uvítání. Takže je-li domovní telefon po zazvonění hluchý, víme, že jsou to uličníci anebo naše paní doručovatelka. Rychle se oblékám a rozřinčí se zvonek u dveří. Natahuju na sebe župan (zvonek řinčí), jdu do předsíně (zvonek řinčí) a otevírám dveře (zvonek stále řinčí). Naše paní doručovatelka se jednou rukou přehrabuje v tašce, druhou se opírá o náš zvonek a konverzuje se sousedkou. Řekne: hned jsem u vás! A dál konverzuje se sousedkou. Naše paní doručovatelka má ráda, když to klape. Když ji nic nezdržuje v doručování. Třeba zásilky. Když mám poštu jenom já, nechá ji na poště a nejde do domu vůbec; protože si přece můžu dojít na poštu sama, když jsem doma a nic nedělám. Stojím u dveří a čekám, je mi zima z průvanu, přivírám dveře a stojím ukázněně za dveřmi. Bolí mě nohy, přenáším váhu z jedné nohy na druhou. A potom zas zpátky. Kýchám, jdu si lehnout do postele, vařím si čaj, beru aspirin. Paní doručovatelka si se sousedkou vyřizuje své věci. Pak se celou vahou znovu opírá o zvonek. Zvonek řinčí, jeho zvuk mi sjíždí po páteři, zavrtává se do zubů. Skokem jsem na nohou, v předsíni, u dveří. Zvonek pořád řinčí. Kde ste, říká paní doručovatelka, řekla jsem vám přece jasně, že jsem hned u vás. Dostávám pokyn, abych počkala. Čekám. Naše paní doručovatelka hledá v tašce, loučí se se sousedkou, nachází dopis, předává jej sousedce, hledá papír, nechává jej sousedce podepsat, skládá papír, bere si zpět propisovačku, loučí se se sousedkou, sousedka zacouvá za dveře, naše paní doručovatelka hledá v tašce, nalézá dopis, hledá papír, nalézá papír, vzhlédne ke mně a podává mi papír k podpisu se slovy: nevzala byste to Havlíčkům? Mně se do třetího patra nechce chodit.
+
+</section>
+
+<section>
 
 Co dělá ten můj?
 
 _Sedí v boudě, okusuje si nehty a soustředěně pozoruje tu ženu z bufetu, která se zřejmě topí v kádi._
 
 Podařilo se jí chytit se okraje. Stejně bych pro tebe skočil, řekl jí a podal jí nějaký klacek. Někdo tě vytáhne, řekl, já se tímhle nehodlám zabývat… hele, mě tohle nebaví… hele, tohle mě nezajímá… na tohle já nejsem zvědavej… co chceš, abych ti na to řek…? A tančí kolem ní svůj tanec pohrdání a žena v kádi se strašně snaží…
+
+</section>
+
+<section>
 
 _– už rozumíš? – no konečně; tak jedem: nadechnout – pomalu vyfukovat, jinak se unavíš; padesát bazénů, poslední zrychlit, a jedem!_
 
@@ -178,6 +236,10 @@ _– máš nekonečně víc energie, než tušíš, máš nekonečně víc sil, 
 Kdy budu u cíle?
 
 _To poznáš! Sbohem!_
+
+</section>
+
+<section>
 
 Nebudu zdržovat, paní doktorko, bylo to podle zásady, když nemůžeš, tak přidej; když umíráš, tak přidej víc.
 
@@ -213,7 +275,15 @@ Ale já se těšila, že…
 
 _Tak si to něčím pocukruj, hoď to do krajky, ozdob ten konopný provaz hedvábnou bambulí… Jenže ta bambule už není ten provaz, chápeš?_
 
+</section>
+
+<section>
+
 Tak asi tak nějak, paní doktorko – chtěla jste vědět, jak to všechno bylo, než mě sebrali, když jsem dvanáctého osmý v devět ráno vešla nahá do bistra na Vinohradské ulici, postavila se do fronty a čekala, až na mě přijde řada. Takhle nějak, aspoň co si pamatuju.
+
+</section>
+
+<section>
 
 A tohle je konec, jak ho známe a jak ho chcem:
 
@@ -224,3 +294,5 @@ Podívala se na sebe do zrcadla: je to pravda? Ta pružná, svěží, planoucí 
 Rozechvělá náhlým vzedmutím citů se odvrátila od zrcadla k oknu vedoucímu do zahrady: u bílého altánu, v srdečném rozhovoru s matkou, stál on; podívala se na něj zpod přivřených řas: stál v plném slunci, něco říkal a právě teď se otočil k domu; viděl ji? Sladce jí zatrnulo u srdce…
 
 Je to možné? Že ten krásný, plavý muž s pevnými svaly a kůží líbanou sluncem, že patří k ní? Že je její? Jen její? Smí se ho dotýkat, smí položit svou hlavu na jeho nahou hruď a vdechovat vůni jeho napjaté kůže… Smí mu šeptat miláčku, smí se nechat ovinout jeho mocnou, pevnou paží… Věděla, že je dokonale šťastna – a že tentokrát drží své štěstí pevně v rukou a nic, nikdo už je nezvrátí…
+
+</section>
