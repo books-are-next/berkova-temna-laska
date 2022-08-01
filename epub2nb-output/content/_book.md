@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2694-2
 readingOrder:
   - promo.html
   - temna_laska_005.html
