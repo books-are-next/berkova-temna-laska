@@ -9,7 +9,8 @@
       "modified": "2021-06-18T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2694-2"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "V boudě"
+            "title": "V boudě",
+            "children": []
           },
           {
             "filename": "temna_laska_006.md",
@@ -109,8 +110,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zápas s andělem"
+            "title": "Zápas s andělem",
+            "children": []
           },
           {
             "filename": "temna_laska_007.md",
@@ -122,8 +123,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Konec"
+            "title": "Konec",
+            "children": []
           },
           {
             "filename": "temna_laska_008.md",
@@ -267,6 +268,6 @@
       "user": "books-are-next",
       "repo": "berkova-temna-laska"
     },
-    "generatedAt": 1658413323393
+    "generatedAt": 1658930444026
   }
 }
