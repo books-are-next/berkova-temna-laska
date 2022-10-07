@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-temna-laska-633b0bd",
-  "revision": "633b0bd",
+  "identifier": "berkova-temna-laska-67d286b",
+  "revision": "67d286b",
   "readingOrder": [
     "promo.html",
     "temna_laska_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:46:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923573369
+    "date": "Fri Oct 07 2022 13:54:57 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150897553
   },
   "documents": [
     {
