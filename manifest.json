@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "berkova-temna-laska-67d286b",
-  "revision": "67d286b",
+  "identifier": "berkova-temna-laska-ecc8298",
+  "revision": "ecc8298",
   "readingOrder": [
     "promo.html",
     "temna_laska_005.html",
@@ -18,8 +18,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:54:57 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150897553
+    "date": "Mon Oct 10 2022 15:46:55 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416815656
   },
   "documents": [
     {
@@ -98,7 +98,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 141,
-      "chars": 938,
+      "chars": 939,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -118,7 +118,7 @@
   "totals": {
     "all": {
       "words": 29988,
-      "chars": 166312,
+      "chars": 166313,
       "ideas": 782
     },
     "chapters": {
